@@ -1,0 +1,1257 @@
+Case ID,Activity,Resource,Complete Timestamp,Worker ID,original_index,End Time,Error Text,Extracted Info,Category
+Case 1,Turning & Milling,Machine 4,2012/01/30 05:43:00.000,ID4932,0,2012/01/30 05:43,,,
+Case 1,Turning & Milling,Machine 4,2012/01/30 06:42:00.000,ID4932,1,2012/01/30 06:42,,,
+Case 1,Turning & Milling,Machine 4,2012/01/30 07:21:00.000,ID4167,2,2012/01/30 07:21,"On January 30, 2012, at 07:21 during the Turning & Milling activity on Machine 4, an issue arose. I am worker ID4167 who experienced this anomaly. The machine functioned normally initially; however, as the process progressed, it became evident that the clamped workpiece wasn't securely fastened. This led to significant vibrations during machining, which affected the precision of the operation. Consequently, the final product displayed a noticeable asymmetry and rough edges. Although there were no system alerts, the visible deformity on the piece indicated an error in the clamping process. To prevent further complications, I stopped the process immediately and notified my supervisor about the situation.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/01/30 07:21"",
+""WorkerID"": ""ID4167""
+}",Part Misalignment
+Case 1,Turning & Milling,Machine 4,2012/01/30 10:58:00.000,ID4167,3,2012/01/30 10:58,"On 30th January 2012 at 10:58 during the Turning & Milling activity on Machine 4, I was operator ID4167. Initially, everything seemed normal, but then I noticed an unusual occurrence with the cutting tool's efficiency. The machine began to struggle, producing a louder than usual noise and emitting more vibrations. The parts that were being produced showed signs of inconsistency in terms of size and shape. Despite these irregularities, the system didn't trigger any alerts. I immediately paused the process due to concerns about the quality of the output. Upon inspection, it was apparent that there might be an issue with the air pressure supply, potentially affecting the precision of the tool's movement. I reported this matter to my supervisor for further investigation and rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/01/30 10:58"",
+""WorkerID"": ""ID4167""
+}",Part Misalignment
+Case 1,Laser Marking,Machine 7,2012/02/01 08:27:00.000,ID0998,5,2012/02/01 08:27,,,
+Case 1,Lapping,Machine 1,2012/02/14 01:15:00.000,ID4882,6,2012/02/14 01:15,"During the Lapping process on Machine 1 at 1:15 AM on 14th February 2012, I, worker ID4882, observed an issue. Initially, everything seemed normal, but as the process progressed, I noticed that one part wasn't fitting snugly in its holder, causing an uneven lapping pattern to develop on the surface of the component. By the end of the cycle, there was a clear distortion on the finished part, despite no system alerts. I immediately stopped the machine and reported the matter to my supervisor for further inspection and necessary corrections.","{
+""Activity"": ""Lapping"",
+""Machine"": ""Machine 1"",
+""Error time and Error date"": ""2012/02/14 01:15"",
+""WorkerID"": ""ID4882""
+}",Part Misalignment
+Case 1,Lapping,Machine 1,2012/02/14 01:15:00.000,ID4882,7,2012/02/14 01:15,"This report pertains to an incident during the Round Grinding activity on the 2nd of January 2012, specifically at four fifty in the morning. The affected machine was the third one in our facility. My operator ID is 4-4-4-5. The ambient temperature was around -1 degrees Celsius, and I had just completed a routine check on the batch tray labeled 'A12'.
+
+During the process, I observed an unusual situation with the air pressure system. Normally, you'd hear the steady hiss of compressed air when grinding, but there was an unexpected fluctuation that made the noise intermittent and irregular. Consequently, the component wasn't being ground evenly, with some areas showing pronounced variations in shape compared to others. I noticed this at approximately four fifty-five, which is when I stopped the process immediately and alerted my supervisor about the issue.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 4-4-4-5"",
+""Error time and Error date"": ""2012/01/25 02:00"",
+""WorkerID"": ""ID4567""
+}",Air Pressure Error
+Case 1,Lapping,Machine 1,2012/02/14 10:20:00.000,ID4882,8,2012/02/14 10:20,"This log entry pertains to a round grinding task during the early hours of the 29th of March 2012, at approximately six fifty from the third machine. I am operator ID4-4-4-5 for this shift. The air temperature in the work area was slightly cooler than usual, around 16 degrees, while the grinding compound was set to a standard consistency. However, during the round grinding process on the specified machine, an anomaly occurred. Initially, I noticed that the cooling system was not functioning as expected. The spindle began to heat up unusually fast and the coolant flow became erratic. This led to inconsistent grinding results, with the component surface showing uneven heating patterns and noticeable burn marks in certain areas. Despite no alarm being triggered from the machine's control system, the situation was immediately concerning due to potential quality issues. In light of this, I stopped the operation and alerted my supervisor for necessary maintenance checks on the cooling system before resuming work.","{
+    ""Activity"": ""Lapping"",
+    ""Machine"": ""Machine 1"",
+    ""Error time and Error date"": ""2012/02/14 09:38"",
+    ""WorkerID"": ""ID4882""
+}",Lubrication Deficiency
+Case 1,Lapping,Machine 1,2012/02/14 09:38:00.000,ID4882,9,2012/02/14 09:38,"During the Turning & Milling process on Machine 4 last night, 14 Mar 2012 at 23:32. I am worker 4932. The machine was operating smoothly initially, but as the cycle progressed, I started to hear unusual grinding noises. Upon closer inspection, I noticed that the cutting tool was overheating, and the metal shavings were smaller than usual, indicating excessive friction. There were no warnings from the system, but the heat caused a slight warp in the final piece which will require rework. I immediately stopped the process to prevent further damage and informed the night supervisor of the issue.","{
+    ""Activity"": ""Lapping"",
+    ""Machine"": ""Machine 1"",
+    ""Error time and Error date"": ""2012/02/14 09:38"",
+    ""WorkerID"": ""ID4882""
+}",Part Misalignment
+Case 1,Round Grinding,Machine 3,2012/02/14 13:37:00.000,ID4445,10,2012/02/14 13:37,,,
+Case 1,Round Grinding,Machine 3,2012/02/14 15:27:00.000,ID4445,11,2012/02/14 15:27,,,
+Case 10,Turning & Milling,Machine 9,2012/01/17 11:05:00.000,ID3846,16,2012/01/17 11:05,"On January 17, 2012 at 11:05, during the Turning & Milling activity on Machine 9, ID3846 noticed an issue. The machine was running smoothly initially, but a loud grinding noise suddenly occurred. I inspected the situation and discovered that the moving parts appeared to be rubbing against each other excessively due to lack of lubrication. This led to overheating and eventually caused a component to seize. Smoke emanated from the machine, and the operation had to be halted immediately to prevent further damage. I reported the incident to my supervisor for necessary maintenance and parts replacement.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 9"", 
+""Error time and Error date"": ""2012/01/17 11:05"", 
+""WorkerID"": ""ID3846""
+}",Lubrication Deficiency
+Case 10,Turning & Milling,Machine 9,2012/01/17 20:01:00.000,ID4132,18,2012/01/17 20:01,,,
+Case 10,Turning & Milling,Machine 9,2012/01/17 23:43:00.000,ID4132,19,2012/01/17 23:43,,,
+Case 10,Turning & Milling,Machine 9,2012/01/18 06:32:00.000,ID4794,20,2012/01/18 06:32,,,
+Case 10,Turning & Milling,Machine 9,2012/01/18 07:24:00.000,ID3846,21,2012/01/18 07:24,"During the Turning & Milling activity on Machine 9 this morning, 18 Jan 2012 at 07:24. I am worker 3846. Initially, the machine seemed to be functioning correctly. However, as the process progressed, an unusual sound started emanating from the machine - a grinding noise not typically associated with our regular operations. The cutting tool began to overheat rapidly and smoke was observed, indicating potential internal issues. The workpiece came out with irregularities, suggesting inadequate cooling during the process. There were no alerts from the system regarding a cooling failure, but the evidence was clear. I immediately halted the operation and alerted my supervisor to address the issue before resuming.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 9"", 
+""Error time and Error date"": ""2012/01/18 07:24"", 
+""WorkerID"": ""ID3846""
+}",Cooling System Failure
+Case 10,Turning & Milling,Machine 9,2012/01/18 17:55:00.000,ID4132,22,2012/01/18 17:55,"During the Turning & Milling process on Machine 9 at approximately 17:55 hours on January 18, 2012, I was operator 4132. Initially, everything seemed normal, but I soon noticed an unusual problem with the machine's air pressure system. The power tool used for milling wasn't responding as expected, and the component I was working on showed signs of uneven cutting. This led to a misshapen part that didn't meet our quality standards. Despite no alerts from the system, the situation was evident due to the irregular shape of the final product. Concerned about this anomaly, I decided to stop the process and immediately notified my supervisor for further investigation and rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 9"",
+    ""Error time and Error date"": ""2012/01/18 17:55"",
+    ""WorkerID"": ""ID4132""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/18 20:04:00.000,ID4132,23,2012/01/18 20:04,,,
+Case 10,Turning & Milling,Machine 9,2012/01/19 06:29:00.000,ID4794,24,2012/01/19 06:29,"During the Turning & Milling activity on Machine 9, an unexpected issue occurred at 2012/01/19 06:29. I am worker ID4794. As I was working, I noticed that the part being processed seemed to be rotating irregularly, with a visible wobble in its movement. This anomaly caused inconsistencies in the cutting process, resulting in an uneven finish on the final product. The machine continued to operate without any alerts from the system, but the affected part had clear signs of misalignment and distortion. I halted the process immediately and reported the incident to the supervisor for further correction and inspection.","{
+    ""Activity"": ""Turning & Milling"", 
+    ""Machine"": ""Machine 9"", 
+    ""Error time and Error date"": ""2012/01/19 06:29"", 
+    ""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/19 18:09:00.000,ID4132,25,2012/01/19 18:09,"During the Turning & Milling process on Machine 9 on January 19, 2012, at around 6:09 PM. I am worker ID4132. The machine seemed to be functioning normally, but as I was monitoring the progress, I noticed an unusual movement in the workpiece. The component was shifting during the process, causing inconsistencies in the milled surface. By the end of the cycle, the final part showed clear signs of distortion and misalignment. Despite no alerts from the system, it was evident that there was a problem with the clamping mechanism, leading to the imperfections observed on the piece. I promptly stopped the process and notified my supervisor for further investigation and rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/01/19 18:09"",
+""WorkerID"": ""ID4132""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/19 20:08:00.000,ID4132,26,2012/01/19 20:08,,,
+Case 10,Turning & Milling,Machine 9,2012/01/20 05:10:00.000,ID4794,27,2012/01/20 05:10,"The Turning & Milling process on the afternoon of the 14th of March 2012 was the scene of an issue that occurred at a little past one o'clock in the afternoon. I was operating at the ninth machine and my worker ID is 3-8-4-6. The workshop temperature was mild, around 20 degrees Celsius. The batch number for this operation was 750.
+
+Everything seemed to run smoothly initially, but upon closer inspection, I noticed that the clamp holding the workpiece wasn't properly tightened on the machine. This led to unstable and erratic movements during the turning process. As a result, grooves in the workpiece started to form asymmetrically, with one side deeper than the other. There were no system alerts; however, the quality of the produced part was clearly compromised.
+
+To avoid any further damage or incorrect production, I halted the machine and reported the issue to my supervisor immediately for necessary rectifications.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/03/14 01:00"",
+""WorkerID"": ""3-8-4-6""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/22 06:34:00.000,ID4641,28,2012/01/22 06:34,"While performing Turning & Milling operations on Machine 9 at 2012/01/22 06:34, I, worker ID4641, encountered an issue. The machine was operating smoothly initially, but suddenly there was an abnormal increase in heat and noise emanating from the milling area. This resulted in a significant decrease in efficiency of the machining process. As I continued with the task, I observed irregularities in the finished product, characterized by rough surfaces and misshapen components. The unusual noise persisted despite my efforts to rectify it, leading me to suspect an underlying mechanical problem. I halted the process immediately and reported the issue to the supervisor for further inspection and maintenance.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/01/22 06:34"",
+""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/22 07:13:00.000,ID3846,29,2012/01/22 07:13,"During the Turning & Milling process on Machine 9 this morning, January 22, 2012 at 07:13. I am worker 3846. As usual, I started the machine and began the operation, but soon noticed an unusual noise coming from the cutting head. The spinning motion seemed erratic, and the tool was not moving along its intended path. Consequently, the component's shape was being altered in an unexpected manner, causing irregular grooves and protrusions on its surface. Despite no warning signals from the system, it was evident that something was amiss. I immediately stopped the machine to prevent further damage and called for the supervisor to address this issue.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/01/22 07:13"",
+""WorkerID"": ""ID3846""
+}",Part Misalignment
+Case 10,Turning & Milling,Machine 9,2012/01/22 17:47:00.000,ID3846,30,2012/01/22 17:47,"On the 22nd of January, 2012, at exactly 17:47, during the Turning & Milling activity on Machine 9, I, worker ID 3846, was operating. Initially, everything seemed to be running smoothly, but as I continued with the process, the machine started producing parts with inconsistent dimensions. The edges appeared jagged and rough instead of the usual smooth finish. This issue became progressively worse, affecting the overall quality of the produced components. To my surprise, there were no warnings or alerts from the system regarding this anomaly. I immediately halted the operation to prevent further defective parts from being produced and reported the incident to the supervisor for investigation and correction.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 9"",
+    ""Error time and Error date"": ""2012/01/22 17:47"",
+    ""WorkerID"": ""3846""
+}",Part Misalignment
+Case 10,Laser Marking,Machine 7,2012/01/25 10:57:00.000,ID4794,32,2012/01/25 10:57,"During the Laser Marking activity on Machine 7 at precisely 10:57 on January 25, 2012, I was operator ID4794. As the process commenced, I observed an unusual issue; the material being worked on didn't appear to be securely clamped within the device as it should have been. Consequently, the laser marking patterns started deviating significantly from their intended design. There were no warning signals from the system, but the markings on the output part showed clear signs of distortion and inconsistency. I immediately halted the process and notified my supervisor to address this anomaly.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/01/25 10:57"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 10,Laser Marking,Machine 7,2012/01/25 12:54:00.000,ID4882,33,2012/01/25 12:54,,,
+Case 10,Laser Marking,Machine 7,2012/01/25 14:09:00.000,ID4882,34,2012/01/25 14:09,,,
+Case 10,Flat Grinding,Machine 11,2012/01/27 13:00:00.000,ID0998,35,2012/01/27 13:00,,,
+Case 10,Flat Grinding,Machine 11,2012/01/29 15:06:00.000,ID0998,36,2012/01/29 15:06,,,
+Case 10,Flat Grinding,Machine 11,2012/01/30 16:59:00.000,ID0998,37,2012/01/30 16:59,"While performing Flat Grinding on Machine 11 at 2012/01/30 16:59, I, ID0998, observed an issue during the process. The machine was functioning normally initially, but I noticed that the workpiece was not properly aligned in its designated position. As a result, the grinding wheel made contact with different areas of the part unevenly. This led to an irregular and unsymmetrical grind pattern on the component's surface. Despite no alarms from the system, the final product exhibited a visible asymmetry. I paused the process and alerted the supervisor about the misalignment issue for immediate rectification.","{
+""Activity"": ""Flat Grinding"",
+""Machine"": ""Machine 11"",
+""Error time and Error date"": ""2012/01/30 16:59"",
+""WorkerID"": ""ID0998""
+}",Part Misalignment
+Case 100,Turning & Milling,Machine 8,2012/02/20 17:57:00.000,ID4219,40,2012/02/20 17:57,"During the Turning & Milling process on Machine 8 on 20 Feb 2012 at 17:57. I am worker 4219. Initially, the machine seemed to be functioning correctly, but I soon noticed that the workpiece was not maintaining its position as intended during rotation. This inconsistency resulted in an uneven pattern of cuts on the component. The final piece exhibited a clear twist or bend, which deviated from the standard specifications. Despite there being no machine alerts regarding this issue, it became evident that something was amiss. I immediately halted the process and alerted my supervisor about the misaligned part, so they could investigate further and rectify the problem.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""20/02/2012 17:57"",
+""WorkerID"": ""Not specified""
+}",Part Misalignment
+Case 100,Turning & Milling,Machine 8,2012/02/21 02:57:00.000,ID4529,41,2012/02/21 02:57,,,
+Case 100,Turning & Milling,Machine 8,2012/02/21 11:03:00.000,ID4219,42,2012/02/21 11:03,"During the Turning & Milling process on Machine 8, an issue arose at 2012/02/21 11:03. My worker ID is ID4219. As I was working, I noticed that the air pressure from the machine started to fluctuate unexpectedly. This caused the cutting tool to falter and produce rough cuts. The finished product showed signs of inconsistency in depth and shape. Despite the lack of system alerts, it was clear that there was a problem with the machining process due to the irregularities in the final product. I immediately stopped the machine and alerted the supervisor about the air pressure fluctuation for further investigation and correction.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 8"",
+  ""Error time and Error date"": ""2012/02/21 11:03"",
+  ""WorkerID"": ""ID4219""
+}",Part Misalignment
+Case 100,Turning & Milling,Machine 8,2012/02/21 12:08:00.000,ID4219,43,2012/02/21 12:08,,,
+Case 100,Laser Marking,Machine 7,2012/03/11 11:06:00.000,ID0998,45,2012/03/11 11:06,,,
+Case 100,Flat Grinding,Machine 11,2012/03/11 12:45:00.000,ID0998,46,2012/03/11 12:45,,,
+Case 100,Lapping,Machine 1,2012/03/11 13:18:00.000,ID4882,47,2012/03/11 13:18,"On Thursday, the 29th of March in the year 2012, I was assigned to carry out Round Grinding activities during the late afternoon hours. The clock read quarter past three when I encountered a problem with machine twelve. My operator ID is 4-8-7-2. The ambient temperature was a comfortable 20 degrees Celsius and we had just completed checks on the grinder before starting the batch of parts 675.
+
+Initially, the grinding process seemed to proceed as usual, but I soon noticed something unusual with the clamp holding one of the components. The clamp appeared to have loosened slightly during the process, causing the component to move slightly off-center. As the round grinding continued, the misalignment became more pronounced and the final product displayed a noticeable oval shape instead of the expected circular form.
+
+Upon observing this discrepancy, I stopped the machine immediately and alerted my supervisor about the issue. The affected parts were set aside while we awaited correction to prevent any further damage or inconsistencies in the production run.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 12"",
+""Error time and Error date"": ""2012/03/29 15:00"",
+""WorkerID"": ""4-8-7-2""
+}",Part Misalignment
+Case 100,Round Grinding,Machine 3,2012/03/13 10:41:00.000,ID4445,48,2012/03/13 10:41,,,
+Case 100,Round Grinding,Machine 3,2012/03/13 15:12:00.000,ID4445,49,2012/03/13 15:12,,,
+Case 101,Turning & Milling,Machine 8,2012/03/13 23:03:00.000,ID4219,55,2012/03/13 23:03,,,
+Case 101,Turning & Milling,Machine 8,2012/03/13 23:49:00.000,ID4219,56,2012/03/13 23:49,,,
+Case 101,Turning & Milling,Machine 8,2012/03/14 01:06:00.000,ID4219,57,2012/03/14 01:06,,,
+Case 101,Turning & Milling,Machine 8,2012/03/14 06:28:00.000,ID4794,58,2012/03/14 06:28,,,
+Case 101,Turning & Milling,Machine 8,2012/03/14 07:48:00.000,ID0997,59,2012/03/14 07:48,"On the afternoon of March 11th, 2012, during the Flat Grinding task, I encountered an issue with machine eleven around twelve forty-five. My worker ID is 09-98-89. The ambient temperature was moderately cool and the batch number on the tray read 750. As usual, I checked the grinder for any visible irregularities before initiating the process, but everything seemed in order. However, as the grinding progressed, I noticed an unusual vibration coming from the machine that intensified over time. The movement of the workpiece along the feed path became erratic, causing uneven grinding on the surface of the part. The part was not ejected correctly when the cycle ended, and it got jammed in the exit chute. I halted the machine to avoid further damage and immediately reported the incident to the supervisor for inspection and corrective measures.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/11 12:45"",
+""WorkerID"": ""ID98-89""
+}",Part Misalignment
+Case 101,Turning & Milling,Machine 8,2012/03/14 11:10:00.000,ID0997,60,2012/03/14 11:10,"During the Turning & Milling process on Machine 8 on 14 March 2012 at 11:10. I am worker 0997. The operation started smoothly, but I soon noticed an unusual behavior in the machine's CNC system. The commands were not being executed as programmed, causing inconsistencies in the part's shape. The milling pattern was irregular and the edges displayed noticeable deviations from the intended design. There were no alerts or warning signs from the system, but the final piece did not meet quality standards due to these anomalies. I paused the process immediately and alerted the supervisor about the issue for investigation and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/03/14 11:10"",
+""WorkerID"": ""0997""
+}",Part Misalignment
+Case 101,Turning & Milling,Machine 8,2012/03/14 13:30:00.000,ID0997,61,2012/03/14 13:30,"While performing Turning & Milling operations on Machine 8 at 2012/03/14 13:30, an unexpected issue surfaced with my worker ID being ID0997. The machine was functioning smoothly initially, but suddenly the tool began to oscillate erratically, causing inconsistent cuts in the workpiece. The software seemed to be malfunctioning as it failed to respond to manual adjustments or override commands, despite repeated attempts to correct the issue. This resulted in significant wastage of raw material and a delay in production. I immediately stopped the process and notified the supervisor for further investigation and resolution of the problem.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/03/14 13:30"",
+""WorkerID"": ""ID0997""
+}",Part Misalignment
+Case 101,Flat Grinding,Machine 11,2012/03/15 10:55:00.000,ID0998,63,2012/03/15 10:55,,,
+Case 101,Lapping,Machine 1,2012/03/23 12:40:00.000,ID0998,64,2012/03/23 12:40,,,
+Case 101,Round Grinding,Machine 12,2012/03/24 23:45:00.000,ID4528,65,2012/03/24 23:45,,,
+Case 101,Round Grinding,Machine 12,2012/03/25 06:45:00.000,ID4528,66,2012/03/25 06:45,,,
+Case 101,Lapping,Machine 1,2012/03/25 11:00:00.000,ID0998,68,2012/03/25 11:00,,,
+Case 101,Laser Marking,Machine 7,2012/03/25 11:29:00.000,ID0998,69,2012/03/25 11:29,,,
+Case 102,Turning & Milling,Machine 8,2012/02/27 21:09:00.000,ID4219,71,2012/02/27 21:09,,,
+Case 102,Turning & Milling,Machine 8,2012/02/28 01:23:00.000,ID4219,72,2012/02/28 01:23,"This report pertains to the Turning & Milling activity that transpired on the 22nd of March 2012, specifically at approximately nine fifty-nine in the morning. I was operating on machine number five with operator ID 47-18. The temperature in the room remained steady around 20 degrees, and the batch designated as Batch 906 was being processed. The initial stages of the Turning & Milling process appeared normal, but as the minutes passed, I detected an anomaly. During the milling phase, I noticed a sudden halt in the cutting motion, followed by an inconsistent feed pattern. This inconsistency resulted in an irregular groove on the workpiece's surface. The machine's diagnostic system did not raise any alerts, but it became apparent that there was an error in the feed path. Consequently, I paused the process to alert the supervisor for necessary corrective measures.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9-59-18"",
+""Error time and Error date"": ""March 22, 2012 09:50"",
+""WorkerID"": ""47-18""
+}",Part Misalignment
+Case 102,Turning & Milling,Machine 8,2012/02/28 13:26:00.000,ID0997,73,2012/02/28 13:26,,,
+Case 102,Turning & Milling,Machine 8,2012/02/28 16:12:00.000,ID0997,74,2012/02/28 16:12,,,
+Case 102,Turning & Milling,Machine 8,2012/02/28 17:56:00.000,ID0997,76,2012/02/28 17:56,"During the Turning & Milling process on Machine 8 on the 28th of February 2012 at 17:56, I am worker 0997. Initially, the machine was running smoothly, but as time passed, I noticed an unusual slowdown in the cutting speed and an increase in vibrations. The spindle seemed to be struggling with maintaining a consistent rotation, which caused the precision of the cuts to deteriorate significantly. The noise from the machine also became much louder than usual, and the final piece showed signs of rough edges and inconsistencies. I immediately stopped the process and alerted the supervisor about the issue, as it appeared that the power supply may be insufficient or irregular.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/02/28 17:56"",
+""WorkerID"": ""ID097""
+}",Part Misalignment
+Case 102,Turning & Milling,Machine 8,2012/02/29 01:29:00.000,ID4219,77,2012/02/29 01:29,,,
+Case 102,Turning & Milling,Machine 8,2012/02/29 04:31:00.000,ID4794,78,2012/02/29 04:31,,,
+Case 102,Turning & Milling,Machine 8,2012/02/29 11:05:00.000,ID0997,79,2012/02/29 11:05,,,
+Case 102,Turning & Milling,Machine 8,2012/02/29 16:00:00.000,ID0997,80,2012/02/29 16:00,,,
+Case 102,Turning & Milling,Machine 8,2012/02/29 17:20:00.000,ID0997,82,2012/02/29 17:20,,,
+Case 102,Turning & Milling,Machine 8,2012/02/29 17:48:00.000,ID0997,84,2012/02/29 17:48,"While performing Turning & Milling operations on Machine 8, an issue arose at 2012/02/29 17:48. My worker ID is ID0997. As I was in the middle of the process, I noticed an unusual sound coming from the machine. Upon investigation, I found that the metal parts were grinding excessively against each other, causing a distinctive noise and a burning smell. The machined part had irregularities, with certain areas appearing rougher than others. I suspected the lack of adequate lubrication as the cause, as there was no visible oil on the moving parts. I immediately stopped the machine to prevent any further damage and reported the issue to the supervisor for appropriate maintenance and lubrication.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/02/29 17:48"",
+""WorkerID"": ""ID0997""
+}",Part Misalignment
+Case 102,Turning & Milling,Machine 8,2012/03/01 00:11:00.000,ID4219,85,2012/03/01 00:11,,,
+Case 102,Laser Marking,Machine 7,2012/03/08 14:41:00.000,ID0998,88,2012/03/08 14:41,,,
+Case 102,Lapping,Machine 1,2012/03/09 01:15:00.000,ID4882,89,2012/03/09 01:15,,,
+Case 102,Lapping,Machine 1,2012/03/11 11:04:00.000,ID0998,90,2012/03/11 11:04,,,
+Case 102,Round Grinding,Machine 3,2012/03/12 08:09:00.000,ID4445,93,2012/03/12 08:09,"During the Round Grinding activity on Machine 3, an unexpected issue arose at 2012/03/12 08:09. My worker ID is ID4445. As I was grinding a part, I noticed an unusual heat emanating from the machine. The temperature seemed to be rising rapidly despite the usual cooling system operation. Consequently, the grinding wheel began to vibrate uncontrollably and the part being worked on became too hot to touch. I immediately halted the process due to safety concerns and alerted the supervisor for an inspection of the cooling system. The machine was shut down, and the part had to be replaced due to excessive heating.","{
+""Activity"": ""Round Grinding"",
+""Machine"": ""Machine 3"",
+""Error time and Error date"": ""2012/03/12 08:09"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 102,Round Grinding,Machine 3,2012/03/12 08:04:00.000,ID4445,95,2012/03/12 08:04,,,
+Case 102,Round Grinding,Machine 3,2012/03/12 10:58:00.000,ID4445,96,2012/03/12 10:58,"While performing Round Grinding on Machine 3 at 2012/03/12 10:58, my worker ID is ID4445, I encountered an issue. Initially, the machine seemed to be functioning normally, but upon closer inspection, I noticed that the grinding wheel was excessively heated and making a strange noise. The ground surface of the part had deep grooves and irregularities, indicating improper grinding. Despite the absence of system alerts, it became apparent that the lubricant was either insufficient or improperly applied, leading to increased friction and excessive wear on the grinding wheel. I immediately halted the process to prevent further damage and reported the issue to the supervisor for rectification.","{
+""Activity"": ""Round Grinding"",
+""Machine"": ""Machine 3"",
+""Error time and Error date"": ""2012/03/12 10:58"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 103,Turning & Milling,Machine 8,2012/03/06 10:18:00.000,ID4219,101,2012/03/06 10:18,,,
+Case 103,Turning & Milling,Machine 8,2012/03/08 06:51:00.000,ID0997,102,2012/03/08 06:51,,,
+Case 103,Turning & Milling,Machine 8,2012/03/08 16:38:00.000,ID4219,103,2012/03/08 16:38,,,
+Case 103,Turning & Milling,Machine 8,2012/03/09 04:35:00.000,ID0997,104,2012/03/09 04:35,,,
+Case 103,Turning & Milling,Machine 8,2012/03/09 07:27:00.000,ID0997,105,2012/03/09 07:27,"During the Turning & Milling process on Machine 8 this morning, on the 9th of March at 07:27, I was worker ID0997. Initially, everything seemed normal. However, as the operation progressed, I noticed an unusual increase in temperature, which made it difficult to handle the tools. The cutting process became less efficient, and the parts were coming out with rougher finishes than usual. Despite no alerts from the system, the machine's cooling system appeared to be malfunctioning, as there was no significant reduction in temperature despite the continuous flow of coolant. I immediately stopped the process, alerted my supervisor, and explained the issue for further investigation and necessary repairs.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2023/03/09 07:27"",
+""WorkerID"": ""ID0997""
+}",Part Misalignment
+Case 103,Turning & Milling,Machine 8,2012/03/09 10:27:00.000,ID4219,107,2012/03/09 10:27,"During the Turning & Milling process on Machine 8, an issue was identified at 2012/03/09 10:27. My worker ID is ID4219. As I began the operation, I noticed that the workpiece did not securely clamp into its fixture as usual. This resulted in the workpiece shifting during the process, causing an inconsistent cut pattern on the surface. Despite the machine continuing to operate without any visible alerts, the finished piece exhibited clear signs of misalignment and distortion. I immediately stopped the operation, alerted the supervisor about the situation, and suggested a thorough inspection of the clamping mechanism on Machine 8.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/03/09 10:27"",
+""WorkerID"": ""ID4219""
+}",Part Misalignment
+Case 103,Turning & Milling,Machine 8,2012/03/11 10:37:00.000,ID0997,109,2012/03/11 10:37,,,
+Case 103,Turning & Milling,Machine 8,2012/03/11 11:48:00.000,ID0997,110,2012/03/11 11:48,,,
+Case 103,Turning & Milling,Machine 8,2012/03/11 16:09:00.000,ID0997,111,2012/03/11 16:09,"While performing Turning & Milling operations on Machine 8 at 2012/03/11 16:09, an issue arose. My worker ID is ID0997. Initially, the machine seemed to be operating normally; however, I noticed an unusual heat emanating from the machine that was causing discomfort. The cutting process became increasingly difficult due to the excess heat, and the parts being produced showed signs of uneven wear, with some areas looking overheated compared to others. The cooling system appeared to be malfunctioning as there was no cold water flowing through the hoses as usual. I immediately stopped the machine to prevent further damage and notified the supervisor about the cooling system failure for necessary repairs.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/03/11 16:09"",
+""WorkerID"": ""ID0997""
+}",Part Misalignment
+Case 103,Turning & Milling,Machine 8,2012/03/11 18:35:00.000,ID4219,112,2012/03/11 18:35,,,
+Case 103,Laser Marking,Machine 7,2012/03/13 10:46:00.000,ID4355,114,2012/03/13 10:46,,,
+Case 103,Flat Grinding,Machine 11,2012/03/13 14:04:00.000,ID0998,115,2012/03/13 14:04,"During the Flat Grinding process on Machine 11 at 14:04, 13th of March, 2012. I am worker 0998. Initially, the machine was operating smoothly, but suddenly, it started to slow down and eventually came to a halt. The grinding wheel lost its usual speed and the noise became weaker until there was complete silence. The lights in the work area also dimmed noticeably. I checked the control panel for any alerts or error messages, but there were none visible. The grinding process could not be resumed, and I had to notify the supervisor about this unexpected halt. I suspected a power issue due to the simultaneous failure of both the machine and the lights.","{
+""Activity"": ""Flat Grinding"",
+""Machine"": ""Machine 11"",
+""Error time and Error date"": ""2012/03/13 14:04"",
+""WorkerID"": ""0998""
+}",Part Misalignment
+Case 104,Turning & Milling,Machine 5,2012/03/20 02:26:00.000,ID4529,120,2012/03/20 02:26,"This report pertains to the Turning & Milling activity on the night of the 5th of March 2012, specifically at around eleven fifty-nine. I was stationed at machine five with operator code 4-5-2-9. The room temperature hovered around 72 degrees Fahrenheit, and the humidity remained consistent throughout the process. The batch number was clearly marked as 603 on the tray, nothing out of the ordinary there.
+
+However, during the turning phase, I noticed an unusual behavior with the machine's control panel. The numerical display flickered erratically and the usual audible confirmation beeps were absent. Consequently, the milling process didn't initiate as expected, leaving the workpiece untouched. I double-checked the setup but found no issues with the tooling or the workpiece itself. Recognizing this as an anomaly, I immediately reported it to the supervisor for investigation and resolution.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 5"", 
+""Error time and Error date"": ""2012/03/15 11:59"", 
+""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 104,Turning & Milling,Machine 5,2012/03/20 06:41:00.000,ID4529,121,2012/03/20 06:41,,,
+Case 104,Turning & Milling,Machine 5,2012/03/20 11:07:00.000,ID4429,122,2012/03/20 11:07,,,
+Case 104,Laser Marking,Machine 7,2012/03/21 09:49:00.000,ID4718,125,2012/03/21 09:49,,,
+Case 105,Turning & Milling,Machine 4,2012/03/21 06:34:00.000,ID4167,126,2012/03/21 06:34,,,
+Case 105,Turning & Milling,Machine 4,2012/03/21 10:31:00.000,ID4932,127,2012/03/21 10:31,"This report is regarding the Turning & Milling process that took place in the afternoon of the 29th of March 2012, around four o'clock in the afternoon. I was at the fourth machine with operator ID4-16-7. The ambient temperature was a mild 18 degrees, and we were working on batch number 350. Initially, everything seemed to be running smoothly. However, as the process progressed on the turning lathe, an unusual issue surfaced. The cutting tool seemed to lack its usual precision; the cuts were inconsistent with some areas appearing deeper than others.
+
+I decided to double-check the milling machine for any discrepancies, but the problem persisted. The milled surface was far from ideal, showing signs of incomplete cuts and an uncharacteristic roughness. I suspected there might be a problem with the air pressure supply to the machines since they both require a steady stream of compressed air for their operations. I immediately notified the supervisor about this issue, and we paused the process until it could be resolved. The final product was left incomplete and showed noticeable inconsistencies due to the air pressure anomaly.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 4"",
+  ""Error time and Error date"": ""2012/03/29 16:00"",
+  ""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 106,Turning & Milling,Machine 8,2012/03/15 15:44:00.000,ID0997,128,2012/03/15 15:44,,,
+Case 106,Turning & Milling,Machine 8,2012/03/15 20:38:00.000,ID4219,129,2012/03/15 20:38,,,
+Case 106,Laser Marking,Machine 7,2012/03/19 10:51:00.000,ID0998,131,2012/03/19 10:51,,,
+Case 106,Flat Grinding,Machine 11,2012/03/19 15:20:00.000,ID4882,132,2012/03/19 15:20,,,
+Case 107,Turning & Milling,Machine 10,2012/03/30 11:47:00.000,ID4132,136,2012/03/30 11:47,,,
+Case 108,Turning & Milling,Machine 4,2012/02/27 06:55:00.000,ID4794,137,2012/02/27 06:55,"On 27 Feb 2012 at 06:55 during the Turning & Milling activity on Machine 4, I was worker 4794. Initially, everything seemed normal, but as the process progressed, I observed an unusual situation with the clamped piece. Despite the tightened clamps, the part began to gradually shift. This movement caused inconsistencies in the machining pattern, resulting in a noticeable asymmetry on the finished product. The system didn't alert us of any issues, but upon close inspection, it was clear that the intended symmetry was compromised. Concerned about the potential consequences, I halted the process and promptly reported this to my supervisor for immediate attention.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/02/27 06:55"",
+""WorkerID"": ""4794""
+}",Part Misalignment
+Case 108,Turning & Milling,Machine 4,2012/02/27 09:13:00.000,ID4529,138,2012/02/27 09:13,"On the last day of February in 2012, at around three forty-two in the afternoon, I encountered an unexpected problem during the Laser Marking activity on machine number seven. My worker ID for this session was 4-4-4-5. The temperature in the room remained comfortable and the laser marking solution was correctly replenished according to the schedule. The tray for the current batch read '600'.
+
+However, as I started the process, I noticed that the laser didn't seem to be functioning as expected. There were repeated interruptions in the marking pattern, and the marks on the surface appeared inconsistent. Despite my attempts to adjust the settings, the issue persisted. The control panel showed no error messages or alerts. The final product displayed numerous unexplained gaps and distortions in the intended markings. I halted the process immediately due to these irregularities and notified the supervisor for further investigation and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/15 09:30"",
+""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 108,Turning & Milling,Machine 4,2012/02/27 12:38:00.000,ID4529,140,2012/02/27 12:38,"This report pertains to a lapping task on the 20th of March 2012 at approximately eleven fifty-eight in the morning. I was at the first machine with operator ID 0998. The batch number was labeled as 650, and the coolant temperature remained around 23 degrees Celsius. Initially, everything seemed normal, but as the process progressed, I started to notice an unusual heat emanating from the machine. This continued to intensify, making it uncomfortable for my hands. The component in question became excessively hot to touch, and the lapping pattern on the surface began to appear irregular with uneven wear.
+
+Despite no alerts from the system, I observed that the cooling fan of the machine was not operating effectively. As a result, the temperature inside the machine's cabinet rose significantly. The final part produced had an abnormal darkening and a noticeable deformation. For safety reasons and to ensure proper component production, I halted the process and alerted the supervisor about the issue related to the cooling system.","{
+  ""Activity"": ""Turning & Milling"", 
+  ""Machine"": ""Machine 4"", 
+  ""Error time and Error date"": ""2012/03/15 09:30"", 
+  ""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 108,Laser Marking,Machine 7,2012/02/28 19:07:00.000,ID0998,142,2012/02/28 19:07,,,
+Case 108,Flat Grinding,Machine 11,2012/02/29 01:15:00.000,ID4528,143,2012/02/29 01:15,,,
+Case 108,Flat Grinding,Machine 11,2012/02/29 23:04:00.000,ID0420,144,2012/02/29 23:04,,,
+Case 108,Lapping,Machine 1,2012/03/01 03:50:00.000,ID0420,145,2012/03/01 03:50,,,
+Case 108,Lapping,Machine 1,2012/03/01 03:28:00.000,ID0420,146,2012/03/01 03:28,"This report pertains to an incident during the Laser Marking activity on February 2nd, 2012 at approximately one fifteen in the morning. The issue occurred on machine number seven. My operator code is 4-6-1-8. The room temperature was a comfortable 20 degrees Celsius and the latest batch of parts for laser marking was neatly arranged.
+
+As I started the process, I found that the feed system wasn't working properly on machine seven. Parts were not being fed consistently into the laser chamber. This led to incomplete or incorrect markings on several pieces, as the machine could only process a few parts before needing manual intervention to clear a jam. Despite these complications, there were no alerts from the system warning of any issues. It was evident that something was amiss with the feed path mechanism. I halted the operation and alerted the supervisor about the problem for immediate rectification.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/02/02 01:15"",
+""WorkerID"": ""4-6-1-8""
+}",Feed Path Error
+Case 108,Round Grinding,Machine 3,2012/03/07 11:16:00.000,ID4385,147,2012/03/07 11:16,,,
+Case 108,Round Grinding,Machine 3,2012/03/07 14:10:00.000,ID4385,148,2012/03/07 14:10,,,
+Case 108,Round Grinding,Machine 3,2012/03/07 15:56:00.000,ID0420,149,2012/03/07 15:56,"This report pertains to an incident that occurred during the Round Grinding activity on the 21st of March 2012 at approximately twelve o'clock and eight minutes. The second machine was the one involved in this situation. My operator ID is 4-3-8-5. The ambient temperature for the task was a cool 16 degrees, and the grinding wheel was checked before the process started – everything seemed fine. However, as I initiated the round grinding operation, the machine emitted an unusual noise that gradually grew louder. The spindle began to slow down significantly, causing the grinding wheel to spin at an irregular speed. As a result, the part being processed was not shaped as expected, with visible imperfections in its circular profile. I immediately stopped the machine and alerted my supervisor about the situation, as the power supply seemed to be affected, causing the machine to malfunction.","{
+""Activity"": ""Round Grinding"",
+""Machine"": ""Machine 21"",
+""Error time and Error date"": ""2012/03/15 08:48"",
+""WorkerID"": ""4-3-8-5""
+}",Part Misalignment
+Case 108,Round Grinding,Machine 3,2012/03/07 19:30:00.000,ID4872,150,2012/03/07 19:30,,,
+Case 109,Turning & Milling,Machine 4,2012/03/04 18:01:00.000,ID4932,154,2012/03/04 18:01,,,
+Case 109,Turning & Milling,Machine 4,2012/03/04 23:53:00.000,ID4167,155,2012/03/04 23:53,,,
+Case 109,Turning & Milling,Machine 4,2012/03/05 01:08:00.000,ID4529,157,2012/03/05 01:08,,,
+Case 109,Turning & Milling,Machine 4,2012/03/05 06:43:00.000,ID4529,158,2012/03/05 06:43,"This report pertains to the Turning & Milling activity on the 5th of March 2012, specifically at approximately one o'clock in the morning. I was stationed at machine four and my operator ID is 4-5-2-9. The temperature inside the facility hovered around 20 degrees Celsius during this time, while the batch I was working on had a label of 'B37'.
+
+Initially, everything seemed fine as usual, but I soon noticed an unusual noise emanating from the machine. The sound grew louder and more persistent with each passing minute, indicating something wasn't functioning correctly. As the Turning & Milling process continued, it became increasingly difficult to maintain precision due to excessive friction.
+
+The component that was being processed exhibited signs of wear and tear in a peculiar manner; certain sections were worn down significantly more than others. The machine's control system didn't register any alerts or warnings, but the resulting part displayed clear evidence of irregularities and inconsistencies in its shape.
+
+I immediately halted the process to avoid further damage and alerted my supervisor about the situation for appropriate action.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 4"",
+    ""Error time and Error date"": ""2012/03/15 00:01"",
+    ""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 109,Turning & Milling,Machine 4,2012/03/05 09:41:00.000,ID4932,159,2012/03/05 09:41,,,
+Case 109,Laser Marking,Machine 7,2012/03/15 11:26:00.000,ID0998,162,2012/03/15 11:26,,,
+Case 109,Round Grinding,Machine 2,2012/03/21 06:22:00.000,ID4355,163,2012/03/21 06:22,,,
+Case 109,Round Grinding,Machine 2,2012/03/21 06:49:00.000,ID4355,164,2012/03/21 06:49,,,
+Case 109,Round Grinding,Machine 2,2012/03/21 12:08:00.000,ID4385,165,2012/03/21 12:08,,,
+Case 109,Round Grinding,Machine 2,2012/03/23 01:33:00.000,ID4445,166,2012/03/23 01:33,,,
+Case 109,Round Grinding,Machine 2,2012/03/23 04:08:00.000,ID4445,167,2012/03/23 04:08,,,
+Case 11,Turning & Milling,Machine 10,2012/01/15 23:40:00.000,ID4132,170,2012/01/15 23:40,"During the Turning & Milling process on Machine 10 last night, 15 January 2012 at 23:40. I am worker 4132. The machine initially seemed to be functioning normally, but suddenly there was a complete halt in operations without any warning alerts from the system. Upon further inspection, it became apparent that the power supply had been disrupted, causing all motors to stop. As a result, the ongoing Turning & Milling process was brought to an abrupt end. I immediately notified the supervisor about the situation and we initiated the necessary safety procedures before shutting down the machine completely for repairs.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 10"",
+""Error time and Error date"": ""2012/01/15 23:40"",
+""WorkerID"": ""ID4132""
+}",Part Misalignment
+Case 11,Turning & Milling,Machine 10,2012/01/16 09:49:00.000,ID4641,171,2012/01/16 09:49,"This report pertains to an incident during the Turning & Milling activity on the 25th of March 2012, at approximately 17:45. The affected machine was Machine 10, and my operator code is ID4-13-2. The room temperature was a comfortable 21 degrees Celsius, and the workpiece batch number was 896. The process commenced without any issues initially. However, as I monitored the operation on Machine 10, I noticed that one of the clamps failed to secure the workpiece properly. Consequently, the machine continued its cycle with an improperly fastened workpiece, leading to irregular and inconsistent results. Despite no alarms being triggered, it was evident from the final product that the milling pattern exhibited asymmetry due to the loose clamp. I promptly stopped the operation and alerted my supervisor to rectify the issue.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 10"",
+    ""Error time and Error date"": ""2012/03/25 17:45"",
+    ""WorkerID"": ""ID4-13-2""
+}",Part Misalignment
+Case 11,Turning & Milling,Machine 10,2012/01/16 16:22:00.000,ID4641,173,2012/01/16 16:22,"This report is regarding the Turning & Milling activity that took place on the 16th of January 2012, at approximately four twenty-two in the afternoon. The location was the tenth machine, where I am assigned with operator code ID4641. The ambient temperature during the process remained steady around fifteen degrees Celsius, and the batch number on the tray read 873.
+
+The initial stages of the Turning & Milling task proceeded smoothly. However, as time passed, I began to notice that the cutting speed of the tool appeared slower than usual. This resulted in an extended production time for each part. In addition, an unusual metallic grinding sound was emanating from within the machine, which is not common during normal operation. The milled surface on the parts had inconsistencies, with some areas appearing excessively worn compared to others. By this point, I suspected there might be a problem with the air pressure supply. Despite the system running without alerts or error messages, the final product exhibited noticeable irregularities and required additional finishing work.
+
+I immediately stopped the machine for safety reasons and informed my supervisor about the observed issues. It is essential to correct this potential air pressure problem before continuing further with the Turning & Milling process.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 10"",
+    ""Error time and Error date"": ""2012/01/16 22:20"",
+    ""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 11,Turning & Milling,Machine 10,2012/01/16 23:38:00.000,ID4132,174,2012/01/16 23:38,,,
+Case 11,Turning & Milling,Machine 10,2012/01/17 06:37:00.000,ID4932,175,2012/01/17 06:37,,,
+Case 11,Turning & Milling,Machine 10,2012/01/17 12:01:00.000,ID4641,176,2012/01/17 12:01,,,
+Case 11,Turning & Milling,Machine 10,2012/01/18 09:50:00.000,ID4641,178,2012/01/18 09:50,,,
+Case 11,Turning & Milling,Machine 10,2012/01/18 09:56:00.000,ID4641,179,2012/01/18 09:56,,,
+Case 11,Turning & Milling,Machine 10,2012/01/18 15:32:00.000,ID4641,180,2012/01/18 15:32,,,
+Case 11,Turning & Milling,Machine 9,2012/01/19 09:00:00.000,ID4641,182,2012/01/19 09:00,,,
+Case 11,Turning & Milling,Machine 10,2012/01/19 16:00:00.000,ID4641,183,2012/01/19 16:00,,,
+Case 11,Turning & Milling,Machine 10,2012/01/19 19:21:00.000,ID4132,184,2012/01/19 19:21,,,
+Case 11,Laser Marking,Machine 7,2012/01/22 15:33:00.000,ID4882,185,2012/01/22 15:33,,,
+Case 11,Laser Marking,Machine 7,2012/01/24 16:06:00.000,ID4882,187,2012/01/24 16:06,,,
+Case 110,Turning & Milling,Machine 6,2012/03/01 06:35:00.000,ID4794,191,2012/03/01 06:35,,,
+Case 110,Turning & Milling,Machine 6,2012/03/01 12:36:00.000,ID4529,192,2012/03/01 12:36,"During the Turning & Milling process on Machine 6 on 1st March 2012 at 12:36. I am worker 4529. Initially, everything seemed to run smoothly. However, after a few minutes, an unusual warm sensation was noticed in the work area. The drill bits were becoming increasingly difficult to handle due to excessive heat. This issue intensified, causing the machine's performance to deteriorate significantly. The final product exhibited visible warping, which is uncharacteristic for our products. There were no alerts from the system, but the unusual warmth and poor quality of the output suggested a problem with the cooling system. I immediately halted the process and notified my supervisor for further inspection and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/01 12:36"",
+""WorkerID"": ""ID4529""
+}",Cooling System Failure
+Case 110,Turning & Milling,Machine 6,2012/03/01 15:46:00.000,ID4529,194,2012/03/01 15:46,,,
+Case 110,Turning & Milling,Machine 6,2012/03/02 06:27:00.000,ID4794,195,2012/03/02 06:27,,,
+Case 110,Turning & Milling,Machine 6,2012/03/02 12:47:00.000,ID4167,196,2012/03/02 12:47,,,
+Case 110,Turning & Milling,Machine 6,2012/03/04 00:26:00.000,ID4529,197,2012/03/04 00:26,,,
+Case 110,Turning & Milling,Machine 6,2012/03/04 06:46:00.000,ID4641,198,2012/03/04 06:46,,,
+Case 110,Turning & Milling,Machine 6,2012/03/06 07:29:00.000,ID4794,201,2012/03/06 07:29,,,
+Case 110,Turning & Milling,Machine 6,2012/03/08 04:17:00.000,ID4529,202,2012/03/08 04:17,,,
+Case 110,Turning & Milling,Machine 6,2012/03/08 11:37:00.000,ID4794,203,2012/03/08 11:37,"While performing Turning & Milling operations on Machine 6 on 8 March 2012 at 11:37, I was worker 4794. Initially, everything seemed normal, but as the process progressed, I began to notice an unusual amount of resistance and heat emitting from the machine. The cutting tool was making loud scraping noises instead of the usual smooth sound. This led to a delay in completing the operation and irregularities in the final product - the part's surface showed visible marks of excessive wear and tear, which was not typical for this stage of production. I immediately halted the process due to my concerns, alerted the supervisor about the issue, and recommended a thorough inspection and maintenance check.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/08 11:37"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 110,Turning & Milling,Machine 6,2012/03/08 15:52:00.000,ID4794,204,2012/03/08 15:52,,,
+Case 110,Turning & Milling,Machine 6,2012/03/08 23:40:00.000,ID4167,205,2012/03/08 23:40,,,
+Case 110,Turning & Milling,Machine 6,2012/03/09 06:51:00.000,ID4529,206,2012/03/09 06:51,,,
+Case 110,Turning & Milling,Machine 6,2012/03/09 12:27:00.000,ID4429,208,2012/03/09 12:27,,,
+Case 110,Turning & Milling,Machine 6,2012/03/11 10:54:00.000,ID4932,209,2012/03/11 10:54,,,
+Case 110,Turning & Milling,Machine 6,2012/03/11 06:35:00.000,ID4794,210,2012/03/11 06:35,,,
+Case 110,Turning & Milling,Machine 6,2012/03/11 16:09:00.000,ID4529,211,2012/03/11 16:09,,,
+Case 110,Turning & Milling,Machine 6,2012/03/11 20:12:00.000,ID4429,214,2012/03/11 20:12,,,
+Case 110,Turning & Milling,Machine 6,2012/03/16 06:47:00.000,ID4794,218,2012/03/16 06:47,,,
+Case 110,Turning & Milling,Machine 6,2012/03/16 12:49:00.000,ID4529,220,2012/03/16 12:49,,,
+Case 110,Turning & Milling,Machine 6,2012/03/18 11:30:00.000,ID4932,221,2012/03/18 11:30,,,
+Case 110,Turning & Milling,Machine 6,2012/03/18 02:26:00.000,ID4641,222,2012/03/18 02:26,"This report pertains to the Turning & Milling activity that took place on the 18th of March, 2012 at approximately two twenty-six in the morning. The machine involved was the sixth one from the line. My operator code for this session is ID4641. The temperature inside the facility was relatively cool, with a reading of around 15 degrees Celsius. The batch number on the tray read ""B-789."" Initially, the machine seemed to be operating as expected, but then I noticed an unusual symptom - the drill bit began to slow down significantly and eventually stopped spinning altogether. This led to a halt in the Turning & Milling process for the part being worked on. Despite this disruption, there were no alerts from the system, which added to the confusion as usually such a power-related issue would trigger a warning. Upon recognizing the situation, I notified my supervisor and stopped work on the machine until further inspection and correction could be performed.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 6"",
+  ""Error time and Error date"": ""2012/03/18 02:26"",
+  ""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 110,Laser Marking,Machine 7,2012/03/19 16:06:00.000,ID0998,223,2012/03/19 16:06,,,
+Case 110,Flat Grinding,Machine 11,2012/03/19 17:43:00.000,ID4528,224,2012/03/19 17:43,"During the Flat Grinding activity on Machine 11 at approximately 17:43 on March 19th, 2012. I am worker 4528. Initially, the machine seemed to be functioning as expected. However, I noticed an unusual sound coming from the grinding head. Upon closer inspection, I discovered that the feed path was not consistently supplying material to the grinder. As a result, the grinding wheel was intermittently stalling and restarting, producing an irregular pattern on the workpiece. The situation was not picked up by any system alerts, but it became apparent as the workpiece appeared uneven and inconsistent. I immediately stopped the process and alerted the supervisor to address the issue.","{
+""Activity"": ""Flat Grinding"",
+""Machine"": ""Machine 11"",
+""Error time and Error date"": ""2012/03/19 17:43"",
+""WorkerID"": ""ID4528""
+}",Part Misalignment
+Case 110,Laser Marking,Machine 7,2012/03/19 22:32:00.000,ID0997,225,2012/03/19 22:32,,,
+Case 110,Flat Grinding,Machine 11,2012/03/20 12:13:00.000,ID4528,227,2012/03/20 12:13,,,
+Case 110,Lapping,Machine 1,2012/03/20 11:58:00.000,ID0998,228,2012/03/20 11:58,"On the morning of March 20th, 2012, I was engaged in the Laser Marking activity at exactly nine eleven. During my duty on the seventh machine, there seemed to be an anomaly. My worker ID is 09-98. The laser room temperature had remained consistent around 17 degrees Celsius, and we were working with batch 234.
+
+However, as I initiated the process, I noticed an unusual issue with the airflow within the machine. The pressure seemed to be inconsistent, causing the laser beam to fluctuate intermittently. This resulted in a pattern of faint lines on the materials being marked, instead of the usual crisp and clear markings we are accustomed to. There were no warning signals from the machine, but the quality of our output was significantly compromised. I halted the operation immediately and notified my supervisor for inspection and necessary adjustments.","{
+  ""Activity"": ""Not specified"",
+  ""Machine"": ""Machine 7"",
+  ""Error time and Error date"": ""03/20/2012 11:00"",
+  ""WorkerID"": ""09-98""
+}",Part Misalignment
+Case 110,Turning & Milling,Machine 6,2012/03/22 11:51:00.000,ID4794,231,2012/03/22 11:51,"This logbook entry pertains to the Turning & Milling activity that took place on the 22nd of March in the year 2012 at approximately eleven fifty-one. I was operating the sixth machine with operator code ID4794. The workpiece temperature was consistent, hovering around 35 degrees Celsius. A new batch was scheduled for this process, indicated by the label 'Batch 876'.
+
+Initially, everything seemed normal as the machine hummed along. However, I soon noticed an unusual rise in the ambient temperature near the machine. This spike coincided with a noticeable drop in coolant pressure, which was unusually low for this stage of the process. The cooling system's performance seemed to deteriorate rapidly, causing the workpiece to heat up significantly.
+
+By the time I checked the workpiece, it was far hotter than usual and had signs of overheating. The machined surface displayed irregularities and inconsistencies, which were clearly indicative of inadequate cooling. In an effort to prevent further damage, I halted the process immediately and reported the issue to my supervisor for immediate attention and rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 6"",
+    ""Error time and Error date"": ""2012/03/22 11:51"",
+    ""WorkerID"": ""ID4794""
+}",Cooling System Failure
+Case 110,Turning & Milling,Machine 6,2012/03/22 13:30:00.000,ID4794,233,2012/03/22 13:30,,,
+Case 110,Lapping,Machine 1,2012/03/22 14:33:00.000,ID4718,234,2012/03/22 14:33,,,
+Case 110,Lapping,Machine 1,2012/03/22 16:22:00.000,ID0998,235,2012/03/22 16:22,"On the morning of February 14th, 2012, during the Lapping task, an issue was observed at approximately ten twenty on machine one. I am worker ID4882. The coolant temperature remained consistent around 23 degrees Celsius, and the batch label indicated number 550. Initially, the machine functioned as expected. However, I soon noticed that the part wasn't perfectly aligned within its holder. As the lapping process continued, an evident asymmetry emerged on the component's surface - one side was significantly more worn than the other. The system didn't issue any alerts, but the final product exhibited a clear twisting deformity. Consequently, I halted the operation and reported the matter to my supervisor for immediate correction.","{
+    ""Activity"": ""Not specified"",
+    ""Machine"": ""Machine <digits>"",
+    ""Error time and Error date"": ""YYYY/MM/DD HH:MM"",
+    ""WorkerID"": ""ID<digits>""
+}",Part Misalignment
+Case 110,Flat Grinding,Machine 11,2012/03/22 17:37:00.000,ID0998,236,2012/03/22 17:37,,,
+Case 110,Turning & Milling,Machine 6,2012/03/22 23:30:00.000,ID4794,237,2012/03/22 23:30,,,
+Case 110,Lapping,Machine 1,2012/03/23 01:15:00.000,ID4882,238,2012/03/23 01:15,,,
+Case 110,Turning & Milling,Machine 6,2012/03/23 12:42:00.000,ID4794,240,2012/03/23 12:42,,,
+Case 110,Lapping,Machine 1,2012/03/23 11:39:00.000,ID0998,241,2012/03/23 11:39,,,
+Case 110,Turning & Milling,Machine 6,2012/03/24 07:00:00.000,ID4167,242,2012/03/24 07:00,,,
+Case 110,Turning & Milling,Machine 6,2012/03/25 12:58:00.000,ID4932,243,2012/03/25 12:58,,,
+Case 110,Turning & Milling,Machine 6,2012/03/25 03:35:00.000,ID4794,244,2012/03/25 03:35,,,
+Case 110,Lapping,Machine 1,2012/03/26 01:15:00.000,ID4882,245,2012/03/26 01:15,,,
+Case 110,Laser Marking,Machine 7,2012/03/26 07:16:00.000,ID4882,246,2012/03/26 07:16,,,
+Case 110,Lapping,Machine 1,2012/03/27 01:15:00.000,ID4882,247,2012/03/27 01:15,"During the Round Grinding activity on Machine 12 at exactly 12:06 PM on March 14, 2012, I was worker 4872 carrying out my duties. As I progressed with the grinding process, I noticed an unusual noise coming from the machine that became more audible over time. The component started to heat up excessively and the grinding wheel seemed to falter, producing a grind pattern that was inconsistent and rough. Despite no alerts from the system, it was apparent that something was amiss with the machinery. I immediately stopped the process due to the abnormal conditions and alerted my supervisor for an inspection and correction of the issue.","{
+""Activity"": ""Machine 12"",
+""Machine"": ""Not specified"",
+""Error time and Error date"": ""2012/03/14 12:06"",
+""WorkerID"": ""4872""
+}",Part Misalignment
+Case 110,Round Grinding,Machine 3,2012/03/28 13:55:00.000,ID4445,249,2012/03/28 13:55,"While conducting Round Grinding on Machine 3, I experienced an unexpected issue at 2012/03/28 13:55. My worker ID is ID4445. Initially, the machine seemed to function normally, but suddenly it started to grind erratically, producing an inconsistent final shape on the part being processed. The grinding wheel made abnormal noises and vibrated excessively, which is not typical during our regular operations. As a result, the quality of the finished product was compromised. I immediately halted the machine and alerted the supervisor about the issue.","{
+""Activity"": ""Round Grinding on Machine"",
+""Machine"": ""Machine 3"",
+""Error time and Error date"": ""2012/03/28 13:55"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 110,Round Grinding,Machine 3,2012/03/28 15:57:00.000,ID4872,250,2012/03/28 15:57,,,
+Case 110,Round Grinding,Machine 3,2012/03/28 20:12:00.000,ID4528,251,2012/03/28 20:12,,,
+Case 110,Round Grinding,Machine 3,2012/03/29 05:26:00.000,ID0420,252,2012/03/29 05:26,,,
+Case 110,Round Grinding,Machine 3,2012/03/29 06:50:00.000,ID4445,255,2012/03/29 06:50,,,
+Case 110,Round Grinding,Machine 3,2012/03/29 09:58:00.000,ID4872,256,2012/03/29 09:58,,,
+Case 110,Flat Grinding,Machine 11,2012/03/29 08:20:00.000,ID0998,257,2012/03/29 08:20,,,
+Case 110,Lapping,Machine 1,2012/03/29 09:36:00.000,ID0998,258,2012/03/29 09:36,,,
+Case 110,Round Grinding,Machine 3,2012/03/29 15:43:00.000,ID4445,260,2012/03/29 15:43,,,
+Case 110,Round Grinding,Machine 3,2012/03/29 17:53:00.000,ID4528,261,2012/03/29 17:53,"While performing Round Grinding on Machine 3 at 2012/03/29 17:53, I encountered an issue as worker ID ID4528. During the grinding process, it appeared that the clamps securing the workpiece were not functioning correctly. As a result, the workpiece began to move erratically, causing inconsistent and irregular grinding patterns on the surface. The final product exhibited a significant distortion in its shape, making it unfit for use. I immediately halted the process and alerted my supervisor about the incident, as I believed it required immediate attention and correction to prevent further production of faulty parts.","{
+    ""Activity"": ""Not specified"",
+    ""Machine"": ""Machine 3"",
+    ""Error time and Error date"": ""2012/03/29 17:53"",
+    ""WorkerID"": ""ID4528""
+}",Part Misalignment
+Case 111,Turning & Milling,Machine 4,2012/03/22 17:50:00.000,ID4932,271,2012/03/22 17:50,,,
+Case 111,Turning & Milling,Machine 4,2012/03/23 07:00:00.000,ID4167,272,2012/03/23 07:00,,,
+Case 111,Turning & Milling,Machine 4,2012/03/23 12:41:00.000,ID4794,273,2012/03/23 12:41,"In the Turning & Milling process on Machine 4, an issue arose at 2012/03/23 12:41. The worker involved was ID4794. As I proceeded with the operation, I noticed an unusual sound coming from the machine, followed by an increase in friction and resistance during the process. This led to a decrease in efficiency as the machine struggled to maintain the desired speed. Upon closer inspection, it became apparent that the moving parts were not smoothly gliding against each other; instead, there was a noticeable grinding noise and vibration. I immediately stopped the machine due to concern for potential damage and reported the issue to the supervisor for further investigation.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/23 12:41"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 111,Turning & Milling,Machine 4,2012/03/24 15:52:00.000,ID4932,276,2012/03/24 15:52,"On the eighth of March in the year 2012, I found myself engaged in the Turning & Milling process at exactly four seventeen in the morning. My work ID for this session was 4-5-2-9. The ambient temperature inside the facility was relatively comfortable, hovering around 20 degrees Celsius, and the batch of components to be processed, clearly labeled on the tray, consisted of 600 units.
+
+As I started the process on machine six, everything seemed normal at first. However, as I progressed through the batch, I noticed an irregularity with one of the fixtures clamping the workpiece properly. The vibrations during milling became more pronounced due to this inconsistency, causing the tool to oscillate slightly.
+
+As a result, the precision cuts that machine six usually delivers were compromised. One side of the workpiece had deeper grooves than the other, creating an unwanted taper effect on several pieces in the batch. This anomaly was not picked up by the quality control system's sensors, but I noticed it visually during my routine checks.
+
+I immediately halted the process to prevent further damage and reported the matter to my supervisor for rectification. The affected workpieces will need to be reworked or discarded depending on the severity of the clamping error's impact.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 4"",
+    ""Error time and Error date"": ""2012/03/08 17:00"",
+    ""WorkerID"": ""4-5-2-9""
+}",Part Misalignment
+Case 111,Turning & Milling,Machine 4,2012/03/25 06:45:00.000,ID4794,277,2012/03/25 06:45,"This report is regarding the Turning & Milling process that took place in the early hours of the 29th of February, 2012, specifically at four thirty-one. I was assigned at the eighth machine with operator code ID4794. The temperature inside the facility remained consistent, and the batch number for this session was 305.
+
+During the operation, I observed an unexpected issue. As I fed the raw material into the machine, it didn't securely fasten as usual. The clamp failed to hold the workpiece steadily, resulting in an irregular milling pattern. Despite the system not triggering any alarms, the final product showed visible warping and misshapen features. I paused the process immediately to prevent further damages, and reported the matter to the supervisor for prompt rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/02/29 04:31"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 111,Turning & Milling,Machine 4,2012/03/25 15:32:00.000,ID4167,278,2012/03/25 15:32,,,
+Case 111,Turning & Milling,Machine 4,2012/03/26 06:43:00.000,ID4932,279,2012/03/26 06:43,,,
+Case 111,Laser Marking,Machine 7,2012/03/26 16:00:00.000,ID0998,281,2012/03/26 16:00,,,
+Case 111,Laser Marking,Machine 7,2012/03/26 17:43:00.000,ID4882,282,2012/03/26 17:43,,,
+Case 111,Turning & Milling,Machine 4,2012/03/27 07:52:00.000,ID4167,283,2012/03/27 07:52,"This logbook entry pertains to an incident that occurred during the Laser Marking activity on Thursday, the 25th of January in the afternoon around twelve fifty-four. I was stationed at Machine 7, with my operator ID being 4-8-8-2. The temperature inside the facility remained steady and comfortable, while the batch number for the markings was 603.
+
+As I initiated the process, I immediately noticed a problem: the feed path that supplies material to the machine appeared jammed, causing an unexpected pause in the production cycle. I attempted to clear the obstruction manually, but the issue persisted. The component being marked displayed signs of irregularities - patterns were not fully formed and the markings appeared faint.
+
+Due to this feed path error, the material could not proceed as planned through the machine, leading to a substantial delay in production. I halted the operation and notified my supervisor for immediate assistance. The affected batch had to be discarded due to insufficient marking quality, and we started a fresh batch while awaiting the resolution of this issue.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 7"",
+    ""Error time and Error date"": ""25/01/25 12:54"",
+    ""WorkerID"": ""ID4828""
+}",Part Misalignment
+Case 111,Turning & Milling,Machine 4,2012/03/28 06:56:00.000,ID4167,286,2012/03/28 06:56,"While performing Turning & Milling operations on Machine 4, an unexpected incident took place at 2012/03/28 06:56. I am worker ID4167. The machine started acting abnormally, and I noticed that it was not operating as usual. The power seemed to fluctuate erratically, causing the tools to malfunction repeatedly. Consequently, the parts being produced were significantly deformed with irregular shapes. The system showed no warnings or alerts, but the situation became apparent due to the inconsistencies in the final products. I immediately stopped the process and informed the supervisor about the power instability issue for further investigation and rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 4"",
+    ""Error time and Error date"": ""2012/03/28 06:56"",
+    ""WorkerID"": ""ID4167""
+}",Power Outage
+Case 111,Laser Marking,Machine 7,2012/03/27 13:26:00.000,ID0998,287,2012/03/27 13:26,"While performing Laser Marking on Machine 7 at precisely 2012/03/27 13:26, I, worker ID ID0998, observed an unexpected problem. The laser marking process started off normally, but gradually, I noticed a decrease in the quality of the marks produced. The markings were faint and inconsistent compared to usual. Upon further inspection, I detected a peculiar smoking smell emanating from the machine's interior. The system did not show any warnings, but the laser head felt unusually hot to touch. Consequently, I immediately stopped the process and alerted my supervisor to investigate the potential issue, as the inconsistent markings and unusual conditions could compromise the final product's quality.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/03/27 13:26"",
+""WorkerID"": ""ID0998""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 9,2012/03/08 06:51:00.000,ID4641,288,2012/03/08 06:51,,,
+Case 112,Turning & Milling,Machine 9,2012/03/13 17:48:00.000,ID3846,289,2012/03/13 17:48,,,
+Case 112,Turning & Milling,Machine 9,2012/03/13 23:10:00.000,ID4132,290,2012/03/13 23:10,,,
+Case 112,Turning & Milling,Machine 9,2012/03/14 09:02:00.000,ID3846,292,2012/03/14 09:02,"This report pertains to the Turning & Milling activity that took place during the early hours of the 5th of February 2012, at approximately one fifteen in the morning. I was stationed at the ninth machine with operator ID 09-37. The air temperature in the workshop was brisk but manageable, and the batch number for this session was marked as 845. The turning process commenced without any problems, however, I soon detected an abnormality in the air pressure used to propel the cutting tool. As a result, the tool's movement became inconsistent and erratic, which led to an irregular pattern on the workpiece. Despite no warning signals from the machine, the roughness of the finished piece was evident. I immediately halted the process and alerted my supervisor about the suspected air pressure issue for further inspection and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/02/15 01:00"",
+""WorkerID"": ""09-37""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 9,2012/03/14 13:21:00.000,ID3846,293,2012/03/14 13:21,,,
+Case 112,Turning & Milling,Machine 9,2012/03/14 17:51:00.000,ID4132,294,2012/03/14 17:51,"This log concerns the Lapping activity that took place on the ninth of March 2012 at exactly thirteen thirty-five in the afternoon. The problem was observed on the first machine during my shift, with my worker ID being 09-98. The batch number was clearly visible as 600, and the coolant temperature was maintained within acceptable levels. However, as I proceeded with the task, an unusual occurrence came to light: the cooling system appeared to be malfunctioning. The component started overheating, causing the lapping pattern on the surface to distort significantly and the machine's operation to become erratic. Despite the absence of any system alerts, it was evident that the part was no longer being lapped evenly due to the cooling irregularities. I immediately halted the process and notified my supervisor about the issue for prompt attention and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/03/15 13:35"",
+""WorkerID"": ""ID98""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 9,2012/03/15 06:48:00.000,ID4794,295,2012/03/15 06:48,,,
+Case 112,Turning & Milling,Machine 9,2012/03/15 09:43:00.000,ID3846,296,2012/03/15 09:43,,,
+Case 112,Turning & Milling,Machine 9,2012/03/15 17:22:00.000,ID3846,297,2012/03/15 17:22,"During the Turning & Milling process on Machine 9 at 5:22 PM on 15th March 2012, I was operator 3846. As I started the operation, I noticed that the workpiece didn't seem to be secured properly in the clamp. Despite this, I continued with the process as usual. However, as the machine proceeded, the vibrations became more pronounced and the surface finish on the workpiece deteriorated significantly. The cuts were not uniform and showed signs of erratic movement, which is unusual for this particular machine. There was no system alert during this time, but I could clearly see that the workpiece was unstable in the clamp. Consequently, I had to halt the operation and report the issue to my supervisor for immediate rectification to avoid any potential damage to the machine or the workpiece.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/03/15 17:22"",
+""WorkerID"": ""ID3846""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 9,2012/03/16 06:47:00.000,ID4794,298,2012/03/16 06:47,"On the chilly morning of the 19th of January 2012 at approximately six forty-six, I was engaged in Turning & Milling activities on machine number five, identified by my operator ID as 4-9-3-2. The batch specifications were within acceptable parameters and the temperature of the cooling water was steady around 15 degrees.
+
+As I initiated the process, I detected an unusual humming noise emanating from the machine, a sound that was not typical during regular operations. To my dismay, I found that the coolant spray nozzle seemed to be malfunctioning, not dispersing the liquid as it should have. Consequently, the workpiece began to heat up significantly, causing the turning process to slow down and the milling operation to become inaccurate.
+
+I immediately halted the machine to prevent further damage and reported the issue to the supervisor for rectification. The overheated workpiece was left aside for cooling before it could be re-evaluated for any potential defects caused by this incident.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 4-9-3-2"",
+    ""Error time and Error date"": ""2012/01/19 06:46"",
+    ""WorkerID"": ""4-9-3-2""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 9,2012/03/18 06:50:00.000,ID4641,299,2012/03/18 06:50,,,
+Case 112,Laser Marking,Machine 7,2012/03/18 14:55:00.000,ID4718,302,2012/03/18 14:55,,,
+Case 112,Lapping,Machine 1,2012/03/18 18:10:00.000,ID0998,303,2012/03/18 18:10,,,
+Case 112,Turning & Milling,Machine 10,2012/03/19 00:19:00.000,ID4641,304,2012/03/19 00:19,,,
+Case 112,Turning & Milling,Machine 10,2012/03/19 03:10:00.000,ID4641,305,2012/03/19 03:10,"On March 19, 2012 at 03:10, while performing Turning & Milling operations on Machine 10, I, ID4641, noticed an anomaly. The machine was functioning normally initially, but during the process, I observed a sudden increase in temperature and an unusual smell emanating from the machine. This incident led to the malfunctioning of the parts being worked on, resulting in irregular shapes and poor quality finishes. Despite the absence of system alerts, the symptoms were apparent, and I immediately ceased the operation and alerted my supervisor regarding the issue with Machine 10's cooling system.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 10"",
+""Error time and Error date"": ""2012/03/19 03:10"",
+""WorkerID"": ""ID4641""
+}",Cooling System Failure
+Case 112,Turning & Milling,Machine 10,2012/03/19 06:46:00.000,ID4529,306,2012/03/19 06:46,"This log pertains to the Turning & Milling operation that took place on the 9th of March 2012, around twelve twenty-seven. I was at the sixth machine, operating with ID4429. The room temperature was a comfortable 25 degrees, and we were working with Batch 346. Everything seemed normal as the process began, but shortly after, I noticed an unusual situation developing. The air pressure felt oddly low when using the milling tool, making it difficult to maintain the desired precision during the turning phase. As a result, the surface finish on the workpiece started exhibiting small pits and unevenness, which were not typical for our usual production output. I paused the process, aware that this could compromise the final product's quality. The supervisor was promptly alerted to correct the issue with the air pressure system in the machine.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 127"",
+""Error time and Error date"": ""2012/03/27 12:27"",
+""WorkerID"": ""ID4429""
+}",Power Outage
+Case 112,Turning & Milling,Machine 10,2012/03/19 16:39:00.000,ID4718,307,2012/03/19 16:39,"While performing Turning & Milling operations on Machine 10 at 2012/03/19 16:39, I, ID4718, noticed an unusual occurrence. Initially, the machine seemed to be functioning normally, but suddenly it displayed erratic behavior. The cutting patterns became unpredictable and inconsistent, leading to inaccuracies in the finished parts. Despite no alerts from the system, these irregularities were evident as the final product exhibited visible errors, such as misshapen edges and improper dimensions. Recognizing this issue could impact the quality of our products, I immediately halted the process and reported the matter to my supervisor for further investigation and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Not specified"",
+""Error time and Error date"": ""2012/03/19 16:39"",
+""WorkerID"": ""ID4718""
+}",Part Misalignment
+Case 112,Turning & Milling,Machine 10,2012/03/20 06:48:00.000,ID4641,308,2012/03/20 06:48,,,
+Case 112,Turning & Milling,Machine 10,2012/03/20 17:52:00.000,ID3846,309,2012/03/20 17:52,,,
+Case 112,Turning & Milling,Machine 10,2012/03/21 03:29:00.000,ID4641,312,2012/03/21 03:29,,,
+Case 112,Laser Marking,Machine 7,2012/03/21 12:32:00.000,ID4718,316,2012/03/21 12:32,,,
+Case 112,Turning & Milling,Machine 10,2012/03/21 17:43:00.000,ID4132,317,2012/03/21 17:43,,,
+Case 112,Turning & Milling,Machine 10,2012/03/22 05:32:00.000,ID4641,318,2012/03/22 05:32,,,
+Case 112,Lapping,Machine 1,2012/03/22 14:33:00.000,ID4718,321,2012/03/22 14:33,,,
+Case 113,Turning & Milling,Machine 5,2012/03/15 06:49:00.000,ID4932,325,2012/03/15 06:49,,,
+Case 113,Turning & Milling,Machine 5,2012/03/15 15:56:00.000,ID4529,326,2012/03/15 15:56,,,
+Case 113,Laser Marking,Machine 7,2012/03/16 11:39:00.000,ID0998,328,2012/03/16 11:39,,,
+Case 114,Turning & Milling,Machine 6,2012/02/29 06:53:00.000,ID4794,329,2012/02/29 06:53,,,
+Case 114,Turning & Milling,Machine 6,2012/02/29 08:01:00.000,ID4718,331,2012/02/29 08:01,,,
+Case 114,Turning & Milling,Machine 6,2012/03/01 03:48:00.000,ID4794,332,2012/03/01 03:48,,,
+Case 115,Turning & Milling,Machine 4,2012/03/05 16:01:00.000,ID4932,336,2012/03/05 16:01,,,
+Case 115,Turning & Milling,Machine 4,2012/03/06 06:29:00.000,ID4529,337,2012/03/06 06:29,,,
+Case 115,Turning & Milling,Machine 4,2012/03/06 08:35:00.000,ID4932,338,2012/03/06 08:35,,,
+Case 115,Turning & Milling,Machine 4,2012/03/06 09:48:00.000,ID4932,339,2012/03/06 09:48,,,
+Case 115,Turning & Milling,Machine 4,2012/03/06 13:48:00.000,ID4932,340,2012/03/06 13:48,"This report pertains to an incident that occurred during the Round Grinding activity on the evening of the 28th of March in 2012. It was around twenty minutes past eight when I noticed an anomaly with machine number three, where my operator code is 4-5-2-8. The room temperature remained consistent at a comfortable 72 degrees Fahrenheit, and the batch was marked as 600. However, during the usual grinding process, I observed that the tool suddenly stopped spinning without any warning. No error codes or alerts were displayed on the machine's dashboard, which is unusual for such a situation. Consequently, the component could not be properly ground, resulting in an unfinished product with rough edges. Realizing the gravity of this issue, I promptly halted the operation and informed my supervisor about the matter.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 3"",
+  ""Error time and Error date"": ""28/03/2012 20:00"",
+  ""WorkerID"": ""4-5-2-8""
+}",Part Misalignment
+Case 115,Flat Grinding,Machine 11,2012/03/08 15:52:00.000,ID4882,343,2012/03/08 15:52,,,
+Case 115,Flat Grinding,Machine 11,2012/03/09 01:15:00.000,ID4882,344,2012/03/09 01:15,"During the Flat Grinding process on Machine 11 at 01:15 on March 9th, 2012, I was operator ID4882. Initially, everything seemed normal, but I soon noticed an unusual issue with the grinding wheel. It appeared to be spinning erratically, causing inconsistent results in the grinding process. As the hours passed, this irregularity became more pronounced, leading to a noticeable reduction in the quality of the produced parts. The parts were not uniformly shaped, and there was excessive wear on certain areas. Despite no alarms from the system, it was clear that something was amiss. I immediately halted the process and alerted my supervisor about the issue for proper rectification.","{
+""Activity"": ""Flat Grinding"",
+""Machine"": ""Machine 11"",
+""Error time and Error date"": ""2012/03/09 01:15"",
+""WorkerID"": ""ID4882""
+}",Part Misalignment
+Case 115,Flat Grinding,Machine 11,2012/03/09 10:17:00.000,ID4882,345,2012/03/09 10:17,,,
+Case 115,Lapping,Machine 1,2012/03/11 11:14:00.000,ID4882,347,2012/03/11 11:14,,,
+Case 115,Round Grinding,Machine 2,2012/03/11 22:49:00.000,ID4385,348,2012/03/11 22:49,,,
+Case 115,Round Grinding,Machine 2,2012/03/11 23:50:00.000,ID4385,349,2012/03/11 23:50,,,
+Case 115,Round Grinding,Machine 2,2012/03/12 07:00:00.000,ID0420,350,2012/03/12 07:00,,,
+Case 115,Round Grinding,Machine 2,2012/03/12 15:45:00.000,ID4355,352,2012/03/12 15:45,,,
+Case 115,Round Grinding,Machine 2,2012/03/12 17:05:00.000,ID4385,353,2012/03/12 17:05,,,
+Case 115,Round Grinding,Machine 2,2012/03/12 18:16:00.000,ID4385,354,2012/03/12 18:16,,,
+Case 115,Laser Marking,Machine 7,2012/03/21 14:24:00.000,ID4718,356,2012/03/21 14:24,,,
+Case 118,Turning & Milling,Machine 6,2012/03/25 01:15:00.000,ID4429,374,2012/03/25 01:15,,,
+Case 118,Turning & Milling,Machine 6,2012/03/28 22:11:00.000,ID4794,375,2012/03/28 22:11,,,
+Case 118,Turning & Milling,Machine 6,2012/03/29 01:29:00.000,ID4794,376,2012/03/29 01:29,,,
+Case 119,Turning & Milling,Machine 10,2012/03/20 15:57:00.000,ID4132,378,2012/03/20 15:57,,,
+Case 119,Turning & Milling,Machine 10,2012/03/21 15:30:00.000,ID4132,379,2012/03/21 15:30,"This incident report pertains to the Turning & Milling operation on the 21st of March 2012 at around three thirty in the afternoon. The issue occurred on machine ten, where I was assigned, identified by operator code ID4132. The room temperature was a comfortable 20 degrees Celsius, and the batch consisted of serial number TM-895.
+
+Initially, the machine functioned as expected. However, as the operation progressed, it suddenly halted without warning. Upon inspection, I discovered that there was no response from the spindle. The lights on the control panel remained lit, but the motor failed to respond to any command. This unexpected halt caused a delay in the production process and required immediate attention from maintenance personnel.
+
+To prevent further complications, I ensured all safety measures were in place while waiting for assistance. The machine was left idle until the issue could be resolved, causing a temporary disruption in our Turning & Milling operation.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 10"",
+""Error time and Error date"": ""2012/03/21 15:00"",
+""WorkerID"": ""ID4132""
+}",Part Misalignment
+Case 119,Turning & Milling,Machine 10,2012/03/22 17:48:00.000,ID4132,380,2012/03/22 17:48,,,
+Case 119,Turning & Milling,Machine 10,2012/03/23 06:51:00.000,ID4641,381,2012/03/23 06:51,"During the Turning & Milling process on Machine 10 on 23 March 2012 at 06:51. I am worker 4641. As I was operating the machine, I noticed an unusual vibration and a strange sound coming from the clamping area. The clamped piece seemed unstable, and despite my efforts to adjust it, it kept shifting during the process. Consequently, the final product had significant deformations and imperfections in its shape. There were no warning signals from the system, but the inconsistencies in the part's dimensions were evident upon inspection. I immediately stopped the machine and reported the issue to the supervisor for rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 10"",
+    ""Error time and Error date"": ""23/03/2012 06:51"",
+    ""WorkerID"": ""4641""
+}",Part Misalignment
+Case 119,Turning & Milling,Machine 10,2012/03/25 17:45:00.000,ID4132,382,2012/03/25 17:45,,,
+Case 119,Turning & Milling,Machine 10,2012/03/26 18:00:00.000,ID4132,383,2012/03/26 18:00,,,
+Case 119,Turning & Milling,Machine 10,2012/03/27 17:47:00.000,ID4132,384,2012/03/27 17:47,"This report pertains to the Turning & Milling activity on the night of the 16th of March 2012 at approximately one twenty-seven. I was assigned task number four and noticed a problem with machine four during that time. My worker ID is 4-9-3-2. The ambient temperature was mild, around fifteen degrees Celsius, and the batch was labelled as 'Series B'. The turning process seemed normal at first glance, but soon I detected an unusual issue with the air pressure system. Specifically, the pressure regulator showed lower than usual readings, which led to an inconsistent flow of coolant through the cutting tools. This resulted in uneven cuts on the workpiece, with some areas cut too deeply and others not sufficiently. Despite no alerts from the machine's monitoring system, it was evident that the air pressure issue had caused poor quality output. I immediately halted the process and informed my supervisor about the problem for corrective action.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 27"",
+""Error time and Error date"": ""2012/03/16 01:27"",
+""WorkerID"": ""4-9-3-2""
+}",Lubrication Deficiency
+Case 119,Turning & Milling,Machine 10,2012/03/28 04:21:00.000,ID4794,385,2012/03/28 04:21,,,
+Case 119,Turning & Milling,Machine 10,2012/03/28 17:37:00.000,ID4132,386,2012/03/28 17:37,,,
+Case 119,Turning & Milling,Machine 10,2012/03/29 06:42:00.000,ID4794,387,2012/03/29 06:42,,,
+Case 119,Turning & Milling,Machine 10,2012/03/29 17:18:00.000,ID4132,388,2012/03/29 17:18,,,
+Case 12,Turning & Milling,Machine 9,2012/02/05 01:15:00.000,ID0937,400,2012/02/05 01:15,,,
+Case 12,Lapping,Machine 1,2012/02/05 16:00:00.000,ID0998,401,2012/02/05 16:00,,,
+Case 12,Flat Grinding,Machine 11,2012/02/06 01:15:00.000,ID4882,402,2012/02/06 01:15,,,
+Case 12,Flat Grinding,Machine 11,2012/02/06 12:40:00.000,ID4882,403,2012/02/06 12:40,,,
+Case 12,Laser Marking,Machine 7,2012/02/06 13:47:00.000,ID0998,404,2012/02/06 13:47,,,
+Case 12,Flat Grinding,Machine 11,2012/02/07 01:15:00.000,ID4882,405,2012/02/07 01:15,,,
+Case 12,Flat Grinding,Machine 11,2012/02/07 01:15:00.000,ID4882,406,2012/02/07 01:15,,,
+Case 12,Laser Marking,Machine 7,2012/02/07 16:38:00.000,ID0998,408,2012/02/07 16:38,,,
+Case 12,Flat Grinding,Machine 11,2012/02/07 13:52:00.000,ID4882,409,2012/02/07 13:52,"In the late afternoon of the 29th of January 2012, I was assigned to the Flat Grinding task on machine eleven, with operator ID 09-98-8. The room temperature was a comfortable 73 degrees Fahrenheit and the current batch was labeled 'G56'. Initially, everything seemed to be running smoothly. However, around three thirty-six in the afternoon, I started noticing a grinding noise that wasn't typical. Upon closer inspection, I noticed that there was an excess of friction between the grinding wheel and the workpiece, causing the latter to heat up noticeably. This heat buildup led to inconsistencies in the final grind pattern, with some areas appearing shallower than others. Despite the machine functioning without any system alerts, it became clear that there was an issue with the lubrication system. I promptly stopped the process and alerted the supervisor about the need for maintenance on the lubrication system to ensure consistent grinding results in the future.","{
+    ""Activity"": ""Grinding"",
+    ""Machine"": ""Machine 11"",
+    ""Error time and Error date"": ""2012/01/29 13:36"",
+    ""WorkerID"": ""09-98-8""
+}",Part Misalignment
+Case 12,Flat Grinding,Machine 11,2012/02/07 15:43:00.000,ID4882,410,2012/02/07 15:43,,,
+Case 120,Turning & Milling,Machine 5,2012/02/26 16:08:00.000,ID4529,415,2012/02/26 16:08,"During the Turning & Milling process on Machine 5 on 26 Feb 2012 at 16:08. I am worker 4529. As I began working, I observed that the clamp holding the workpiece in place was not secure. Despite my attempts to tighten it further, the clamp continued to loosen throughout the process. Consequently, the workpiece moved slightly during the machining operation, resulting in an irregular shape and size in the final product. The machine showed no signs of malfunction, but the part produced had visible imperfections. I halted the process immediately and notified the supervisor about the issue for rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 5"",
+    ""Error time and Error date"": ""2012/02/26 16:08"",
+    ""WorkerID"": ""ID4529""
+}",Part Misalignment
+Case 120,Turning & Milling,Machine 5,2012/02/26 23:26:00.000,ID4429,416,2012/02/26 23:26,,,
+Case 120,Turning & Milling,Machine 5,2012/02/27 06:55:00.000,ID4794,417,2012/02/27 06:55,"This report pertains to an incident during the Turning & Milling activity on the 27th of March, 2012, precisely at sixteen o'clock in the afternoon. The machine involved was the fifth one in our workshop. My worker identification code is ID4-16-7. Today's temperature in the factory was a bit cooler than usual, hovering around 18 degrees Celsius. The batch we were processing was clearly labeled as Batch 302.
+
+Everything seemed normal at first, but as I proceeded with the task, I noticed an unusual movement from the workpiece while it was clamped. Despite the clamps being secure, there was a noticeable wobble that became more pronounced as the process continued. This led to inconsistent cuts on the workpiece's edges, creating an irregular shape. There were no warning signals from the machine, but visually, it was evident that the workpiece was not being held steadily during the process. I halted the operation immediately and alerted my supervisor about the issue for further rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/27 16:00"",
+""WorkerID"": ""ID4-16-7""
+}",Part Misalignment
+Case 120,Laser Marking,Machine 7,2012/03/08 14:41:00.000,ID0998,419,2012/03/08 14:41,,,
+Case 120,Lapping,Machine 1,2012/03/13 17:11:00.000,ID0998,420,2012/03/13 17:11,"On March 14th, 2012, during the Round Grinding activity at exactly seventeen sixteen in the evening, I encountered an issue on the third machine. My operator code is 4-3-8-5. The room temperature was comfortable and the humidity level was normal, with no concerns regarding the batch or the grinding wheel checks. However, during the grinding process, I noticed that the clamp securing the workpiece was not holding it firmly as expected. As a result, the piece started to wobble, causing an irregular grind pattern on the surface. The piece became misshapen and noticeably out of round. There were no warning signs or alerts from the system, but the final product showed clear signs of an inconsistent grinding process. I immediately stopped the machine and reported the issue to my supervisor for further investigation and correction.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 4-3-8-5"",
+""Error time and Error date"": ""2012/03/14 17:16"",
+""WorkerID"": ""ID4567""
+}",Part Misalignment
+Case 120,Round Grinding,Machine 12,2012/03/14 10:26:00.000,ID4872,421,2012/03/14 10:26,,,
+Case 120,Round Grinding,Machine 12,2012/03/14 12:06:00.000,ID4872,422,2012/03/14 12:06,,,
+Case 120,Round Grinding,Machine 3,2012/03/14 15:53:00.000,ID4355,423,2012/03/14 15:53,,,
+Case 120,Round Grinding,Machine 3,2012/03/14 16:02:00.000,ID4355,424,2012/03/14 16:02,,,
+Case 120,Round Grinding,Machine 3,2012/03/14 19:16:00.000,ID4385,425,2012/03/14 19:16,,,
+Case 121,Turning & Milling,Machine 5,2012/03/05 23:59:00.000,ID4529,427,2012/03/05 23:59,,,
+Case 121,Turning & Milling,Machine 5,2012/03/06 03:00:00.000,ID4529,428,2012/03/06 03:00,,,
+Case 121,Turning & Milling,Machine 5,2012/03/06 10:23:00.000,ID4429,430,2012/03/06 10:23,"On March 6th, 2012 at 10:23, while performing Turning & Milling operations on Machine 5, an issue arose. My worker ID is ID4429. The machine was functioning normally until I noticed that the coolant spray pattern was not uniform as it should be during the process. This led to overheating in certain areas of the workpiece which caused a noticeable warping effect. The cooling system seemed to be working, but its efficiency appeared compromised, as evident by the rise in temperature and unusual wear patterns on the finished part. I halted the operation immediately and alerted the supervisor about the situation for necessary corrections and maintenance checks on the cooling system of Machine 5.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/06 10:23"",
+""WorkerID"": ""ID4429""
+}",Part Misalignment
+Case 121,Turning & Milling,Machine 4,2012/03/14 15:11:00.000,ID4529,432,2012/03/14 15:11,"During the Turning & Milling process on Machine 4 at precisely 15:11 on 14 Mar 2012, I was operator ID4529. Initially, everything seemed normal, but as the operation progressed, I observed an unusual phenomenon. The part being processed appeared to be slightly off-center within the machine's workholding area. Consequently, the machined surface developed noticeable asymmetry, with one side receiving more material removal than the other. There were no warnings from the system, but a visual inspection revealed a clear misalignment of the final product. I immediately halted the process and alerted my supervisor to address the issue.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 4"",
+  ""Error time and Error date"": ""2012/03/15 09:30"",
+  ""WorkerID"": ""ID4529""
+}",Part Misalignment
+Case 121,Turning & Milling,Machine 4,2012/03/14 12:34:00.000,ID0997,433,2012/03/14 12:34,,,
+Case 121,Turning & Milling,Machine 4,2012/03/14 21:55:00.000,ID4932,434,2012/03/14 21:55,"The logbook entry pertains to the Turning & Milling activity that took place on the 5th of March 2012, around nine forty-one. I was at the controls of the fourth machine with operator ID 4-9-3-2. The temperature in the shop was comfortable, hovering just above seventeen degrees Celsius, and a fresh batch of parts was ready for processing. Everything seemed normal until I noticed an unusual grinding sound emanating from the machine. Upon closer inspection, I discovered that the cutting tool was visibly heating up and producing more friction than usual. The resulting part had evident surface defects, particularly noticeable rough spots on the edges.
+
+As the issue worsened, I decided to halt the process and bring it to the attention of the supervisor. This unexpected incident suggests that there might have been a problem with the lubrication system, but further investigation is needed to confirm this hypothesis.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/15 09:40"",
+""WorkerID"": ""ID4521""
+}",Lubrication Deficiency
+Case 121,Turning & Milling,Machine 4,2012/03/14 23:32:00.000,ID4932,435,2012/03/14 23:32,,,
+Case 121,Laser Marking,Machine 7,2012/03/16 11:39:00.000,ID0998,437,2012/03/16 11:39,,,
+Case 121,Flat Grinding,Machine 11,2012/03/18 09:52:00.000,ID0998,439,2012/03/18 09:52,,,
+Case 121,Lapping,Machine 1,2012/03/18 11:43:00.000,ID0998,440,2012/03/18 11:43,,,
+Case 121,Round Grinding,Machine 3,2012/03/19 10:00:00.000,ID4385,441,2012/03/19 10:00,,,
+Case 121,Round Grinding,Machine 3,2012/03/19 13:19:00.000,ID4385,442,2012/03/19 13:19,,,
+Case 121,Lapping,Machine 1,2012/03/27 13:26:00.000,ID0998,444,2012/03/27 13:26,,,
+Case 121,Round Grinding,Machine 3,2012/03/28 06:40:00.000,ID0420,445,2012/03/28 06:40,,,
+Case 121,Round Grinding,Machine 3,2012/03/28 13:03:00.000,ID4445,446,2012/03/28 13:03,,,
+Case 122,Turning & Milling,Machine 5,2012/03/04 12:57:00.000,ID4429,447,2012/03/04 12:57,,,
+Case 122,Turning & Milling,Machine 5,2012/03/04 17:59:00.000,ID4429,448,2012/03/04 17:59,,,
+Case 122,Turning & Milling,Machine 5,2012/03/05 12:14:00.000,ID4429,449,2012/03/05 12:14,,,
+Case 122,Turning & Milling,Machine 5,2012/03/05 15:56:00.000,ID4429,450,2012/03/05 15:56,,,
+Case 122,Laser Marking,Machine 7,2012/03/07 10:23:00.000,ID0998,453,2012/03/07 10:23,,,
+Case 122,Flat Grinding,Machine 11,2012/03/07 12:14:00.000,ID4882,455,2012/03/07 12:14,,,
+Case 122,Lapping,Machine 1,2012/03/07 16:12:00.000,ID0998,456,2012/03/07 16:12,,,
+Case 122,Round Grinding,Machine 2,2012/03/07 22:36:00.000,ID4445,457,2012/03/07 22:36,,,
+Case 122,Round Grinding,Machine 2,2012/03/08 02:21:00.000,ID4445,458,2012/03/08 02:21,,,
+Case 122,Lapping,Machine 1,2012/03/21 01:15:00.000,ID4882,461,2012/03/21 01:15,"During the Lapping process on Machine 1 at 1:15 AM on 30 March 2012, I noticed that operator 4163 was experiencing an issue. While performing the routine lapping task, the component seemed to be loosely held in place by the clamping mechanism. This resulted in inconsistent pressure during the process, leading to an irregular pattern on the surface of the part being worked on. As the process continued, it became increasingly apparent that one side was wearing down faster than the other, causing a visible imbalance in the final product. Despite no alerts from the system, the finished part showed clear signs of warping and misalignment. Operator 4163 promptly halted the machine and alerted the supervisor to correct the issue.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/15 09:30"",
+""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 122,Lapping,Machine 1,2012/03/21 10:10:00.000,ID0998,462,2012/03/21 10:10,,,
+Case 122,Round Grinding,Machine 2,2012/03/21 15:46:00.000,ID4385,463,2012/03/21 15:46,,,
+Case 122,Round Grinding,Machine 2,2012/03/21 17:55:00.000,ID4355,464,2012/03/21 17:55,,,
+Case 122,Round Grinding,Machine 2,2012/03/21 21:55:00.000,ID4355,465,2012/03/21 21:55,,,
+Case 122,Laser Marking,Machine 7,2012/03/25 10:10:00.000,ID0998,468,2012/03/25 10:10,,,
+Case 123,Turning & Milling,Machine 4,2012/03/14 01:15:00.000,ID4429,473,2012/03/14 01:15,"On March 12, 2012, at 08:04, while performing Round Grinding on Machine 3, I, worker ID4445, encountered an issue during the process. Upon closer inspection, I noticed that the part was not properly aligned within the machine's fixtures. As a result, the grinding pattern displayed inconsistencies, with one area being ground excessively and another insufficiently. Despite no alerts from the system, it was apparent that the final product had an irregular shape deviating from the desired round form. Consequently, I halted the process and immediately reported this matter to my supervisor for necessary corrections.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/12 08:04"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/15 02:00:00.000,ID4932,474,2012/03/15 02:00,,,
+Case 123,Turning & Milling,Machine 4,2012/03/15 06:30:00.000,ID4932,475,2012/03/15 06:30,,,
+Case 123,Turning & Milling,Machine 4,2012/03/15 08:51:00.000,ID4167,476,2012/03/15 08:51,,,
+Case 123,Turning & Milling,Machine 4,2012/03/15 17:56:00.000,ID4167,477,2012/03/15 17:56,,,
+Case 123,Turning & Milling,Machine 4,2012/03/16 01:27:00.000,ID4932,478,2012/03/16 01:27,,,
+Case 123,Turning & Milling,Machine 4,2012/03/16 03:30:00.000,ID4932,479,2012/03/16 03:30,,,
+Case 123,Turning & Milling,Machine 4,2012/03/16 04:47:00.000,ID4932,480,2012/03/16 04:47,"During the Turning & Milling activity on Machine 4 on 16 March 2012 at 04:47, I am worker 4932. The process started smoothly initially, but soon I noticed an unusual behavior - the machine seemed to be operating erratically, making irregular cuts despite maintaining the correct feed rate and depth settings. As a result, the part's shape deviated from the intended design, with inconsistent dimensions on several key areas. Although there were no alarms triggered, the discrepancies in the final product were quite apparent. Consequently, I halted the operation and reported the issue to my supervisor for further investigation and rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/16 04:47"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/16 07:12:00.000,ID4167,481,2012/03/16 07:12,,,
+Case 123,Turning & Milling,Machine 4,2012/03/16 12:48:00.000,ID4167,482,2012/03/16 12:48,,,
+Case 123,Turning & Milling,Machine 4,2012/03/18 11:30:00.000,ID4932,484,2012/03/18 11:30,"During the Round Grinding activity on Machine 3, an unexpected issue arose at 2012/02/02 01:15. My worker ID is ID4618. Initially, I observed that the grinding wheel was not spinning smoothly as expected. Despite adjusting settings and checking for mechanical issues, I couldn't find a direct cause. However, the machine started to emit an unusual sound and produce inconsistent results. The ground parts were irregular in shape, with some having excessive roundness while others remained under-grinded. The system didn't show any warnings or errors, yet it was evident that something was amiss. I paused the process immediately, alerted the supervisor, and reported the issue for further investigation and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 3"",
+""Error time and Error date"": ""2012/02/02 01:15"",
+""WorkerID"": ""ID4618""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/18 00:57:00.000,ID4641,485,2012/03/18 00:57,"This report pertains to an incident that transpired during the Turning & Milling activity on the 16th of January 2012 at approximately nine forty-nine. I was assigned to machine ten with operator code ID4641. The ambient temperature was around 15 degrees, and the batch number was clearly marked as 798. At first glance, everything seemed in order; however, as the process progressed, I noticed an unusual behavior with the machine's control panel. Specifically, the display showed irregular readings, which made it difficult to adjust the cutting speed or feed rate accurately. As a result, the machined part deviated significantly from the desired specifications. The part exhibited an uneven surface and incorrect dimensions, rendering it unusable. I immediately halted the operation and alerted my supervisor for rectification, emphasizing the need for software correction to ensure the quality of future production batches.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/01/16 09:49"",
+""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/18 02:26:00.000,ID4641,486,2012/03/18 02:26,"In the Turning & Milling activity on Machine 4, a malfunction took place at 2012/03/18 02:26. My worker ID is ID4641. During the process, I noticed an unusual sound coming from the machine, along with increased resistance in the tool's movement. The workpiece appeared to heat up excessively compared to normal operations. As a result, the final product had irregularities and rough edges. Despite following regular maintenance procedures, there seemed to be a lack of smoothness in the machining process. I stopped the machine immediately and alerted the supervisor about the issue for further investigation and lubrication adjustments.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 4"",
+    ""Error time and Error date"": ""2012/03/18 02:26"",
+    ""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/18 07:13:00.000,ID4932,487,2012/03/18 07:13,"This report pertains to the Turning & Milling activity carried out on the 18th of March 2012 at approximately seven thirteen in the morning. I was assigned to work on the fourth machine that day, and my operator code is ID4932. The ambient temperature inside the factory was around 16 degrees, and we were working with batch TM456.
+
+Everything seemed normal as I started the process, but I soon noticed an unusual issue. The cutting tool on the fourth machine appeared to be vibrating excessively. As a result, the precision of the parts being produced was affected; they exhibited noticeable irregularities that deviated from the expected specifications. Despite not receiving any alerts from the system itself, these symptoms were apparent to the naked eye.
+
+I paused the operation immediately and alerted the supervisor about the issue. The vibration seemed to be caused by insufficient air pressure within the machine. Further investigation is required to determine the root cause of this air pressure anomaly in order to prevent any recurrence and ensure the production of high-quality parts.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/18 07:13"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 123,Turning & Milling,Machine 4,2012/03/18 09:20:00.000,ID4932,489,2012/03/18 09:20,,,
+Case 123,Turning & Milling,Machine 4,2012/03/18 09:21:00.000,ID4932,490,2012/03/18 09:21,"This log entry pertains to the Turning & Milling activity that took place on the 5th of March 2012, at approximately 16:01. I was operating machine four with my worker ID being 4-9-3-2. The room temperature and batch numbers were all within acceptable ranges, nothing out of the ordinary there. However, during the milling process, I noticed an irregularity. The workpiece clamped in place seemed to be shifting slightly, creating inconsistencies in the cuts. As the operation continued, these discrepancies grew more pronounced, resulting in a significant deviation from the desired shape on the final product. Despite no alerts from the machine's control system, it was clear that the clamping mechanism had failed, leading to this error. I immediately halted the process and alerted the supervisor for necessary corrective measures.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/15 16:01"",
+""WorkerID"": ""ID9342""
+}",Part Misalignment
+Case 123,Laser Marking,Machine 7,2012/03/18 15:53:00.000,ID4718,491,2012/03/18 15:53,"During the Laser Marking activity on Machine 7 on 18 March 2012 at 15:53. I am worker 4718. As I was proceeding with the marking process, I observed that the part seemed to be off-centered in relation to the laser guide. Consequently, the laser markings appeared asymmetrical and inconsistent on the component's surface. Despite there being no system alerts, it was evident that the part was not properly aligned for marking. The affected part had noticeable distortion, which deviated from the standard quality expectations. I immediately halted the process and reported the issue to my supervisor for further action.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""18/03/2012 15:53"",
+""WorkerID"": ""4718""
+}",Part Misalignment
+Case 124,Turning & Milling,Machine 4,2012/03/20 14:34:00.000,ID4932,492,2012/03/20 14:34,"During the Turning & Milling process on Machine 4 on March 20, 2012 at 14:34. I am worker 4932. The machine seemed to be functioning normally initially, but as the process progressed, I noticed an abnormality in the drilling precision. The drill bit was not penetrating the material as expected, causing a delay in completing the task. As I continued working, the issue became more pronounced, with the drill bit barely making any headway at all. There were no alarms or system warnings to indicate a problem, but the inconsistent results were concerning. I halted the process and alerted the supervisor for inspection and correction of the issue.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/20 14:34"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 124,Turning & Milling,Machine 4,2012/03/20 15:58:00.000,ID4932,493,2012/03/20 15:58,"In the Turning & Milling activity on Machine 4, an unexpected situation arose at 2012/03/20 15:58. My worker ID is ID4932. During the process, I observed that the machine suddenly stopped functioning without any prior warning or alerts. The power seemed to have been cut off, as the machine was completely idle and no further operations could be carried out. As a result, the workpiece remained in its current state and was unable to progress through the production cycle. I immediately reported the issue to the supervisor for rectification of the power supply problem.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/20 15:58"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 124,Turning & Milling,Machine 4,2012/03/20 17:54:00.000,ID4429,494,2012/03/20 17:54,"On the afternoon of 20 March 2012 at 17:54, during the Turning & Milling activity on Machine 4, I was operator 4429. Initially, the machine appeared to be functioning correctly. However, as the process progressed, I noticed that the cutting speed started to fluctuate erratically, causing inconsistencies in the machined part's shape. The resulting piece had irregular edges, which were not typical for our usual production. Despite there being no alarms from the system, it was evident that something was amiss. Consequently, I paused the process and alerted my supervisor about the issue to ensure proper rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/20 17:54"",
+""WorkerID"": ""4429""
+}",Part Misalignment
+Case 124,Turning & Milling,Machine 4,2012/03/20 22:36:00.000,ID4167,495,2012/03/20 22:36,,,
+Case 124,Laser Marking,Machine 7,2012/03/21 16:20:00.000,ID0998,497,2012/03/21 16:20,,,
+Case 124,Lapping,Machine 1,2012/03/22 07:46:00.000,ID4718,498,2012/03/22 07:46,,,
+Case 125,Turning & Milling,Machine 6,2012/03/29 06:42:00.000,ID4794,502,2012/03/29 06:42,,,
+Case 125,Turning & Milling,Machine 6,2012/03/29 13:22:00.000,ID4167,503,2012/03/29 13:22,,,
+Case 125,Turning & Milling,Machine 6,2012/03/29 15:58:00.000,ID4167,505,2012/03/29 15:58,,,
+Case 125,Turning & Milling,Machine 6,2012/03/29 17:29:00.000,ID4429,506,2012/03/29 17:29,"During the Turning & Milling activity on Machine 6 at 17:29 on 29 March 2012, I was worker 4429. Initially, the process seemed to be progressing smoothly. However, as the operation continued, I began to notice that the workpiece wasn't securely clamped. This resulted in an unstable cutting process, causing the final product to have an irregular shape and rough surface finish. Despite no alerts from the machine system, it was evident that the clamping issue had caused a distortion in the finished part. I promptly halted the operation and reported the problem to the supervisor for further inspection and corrective measures.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/29 17:29"",
+""WorkerID"": ""4429""
+}",Part Misalignment
+Case 126,Turning & Milling,Machine 4,2012/03/21 01:15:00.000,ID4429,507,2012/03/21 01:15,,,
+Case 126,Turning & Milling,Machine 4,2012/03/22 06:51:00.000,ID4167,508,2012/03/22 06:51,"While carrying out Turning & Milling operations on Machine 4 at 2012/03/22 06:51, an issue arose. The worker involved was ID4167. During the usual process flow, I observed that there was a significant drop in the tool's cutting efficiency, with the machined parts failing to meet the required specifications. Upon further investigation, it appeared that the air pressure supplying the tools was inconsistent, leading to erratic movements and uneven cuts. Despite no explicit system alerts, the situation became evident based on the irregularities in the finished pieces. In response, I halted the process and alerted the supervisor for necessary adjustments to rectify this Air Pressure Error.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 4"", 
+""Error time and Error date"": ""2012/03/22 06:51"", 
+""WorkerID"": ""ID4167""
+}",Part Misalignment
+Case 126,Turning & Milling,Machine 4,2012/03/22 07:57:00.000,ID4932,509,2012/03/22 07:57,"During the Turning & Milling operation on Machine 4, I encountered an issue at 2012/03/22 07:57. My worker ID is ID4932. As I was working, I noticed that there was an unusual amount of friction and heat emanating from the machine. The noise produced by the operation also became increasingly louder. Eventually, the cutting tool began to vibrate excessively, causing uneven cuts on the workpiece. Despite no alerts from the system, the overall quality of the parts being produced significantly deteriorated. I immediately stopped the process and alerted the supervisor about the issue, as continued operation could potentially lead to further damage to both the machine and the components we were producing.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 4"", 
+""Error time and Error date"": ""2012/03/22 07:57"", 
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 126,Turning & Milling,Machine 4,2012/03/22 11:14:00.000,ID4932,511,2012/03/22 11:14,"On 22 March 2012 at 11:14 during the Turning & Milling activity on Machine 4, I am worker 4932. Everything seemed normal initially, but I soon noticed an unusual issue with the cutting process. The air pressure, which helps power the cutting tools, appeared to be inconsistent, causing the tool to move erratically and produce an uneven finish on the part. Despite no alerts from the system, the part was noticeably misshapen compared to previous ones produced under normal conditions. I paused the process immediately and alerted my supervisor about the problem to ensure proper corrective measures were taken.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/22 11:14"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 126,Laser Marking,Machine 7,2012/03/25 15:41:00.000,ID0998,513,2012/03/25 15:41,,,
+Case 126,Lapping,Machine 1,2012/03/26 01:15:00.000,ID4882,514,2012/03/26 01:15,,,
+Case 126,Lapping,Machine 1,2012/03/26 09:14:00.000,ID0998,515,2012/03/26 09:14,,,
+Case 126,Lapping,Machine 1,2012/03/26 09:52:00.000,ID4882,516,2012/03/26 09:52,,,
+Case 126,Round Grinding,Machine 12,2012/03/26 23:45:00.000,ID4528,517,2012/03/26 23:45,,,
+Case 126,Round Grinding,Machine 12,2012/03/27 07:48:00.000,ID4872,518,2012/03/27 07:48,"While performing Round Grinding on Machine 12 at 2012/03/27 07:48, an unexpected issue arose. My worker ID is ID4872. As I was progressing with the task, the grinding wheel seemed to lose its usual precision and started producing irregular shapes on the components. The system did not show any error messages, but the roundness of the final product deviated significantly from the standard. The resulting part had an obvious asymmetrical deformation. Realizing this anomaly, I halted the machine immediately and reported the matter to the supervisor for further investigation and correction.","{
+""Activity"": ""Round Grinding"",
+""Machine"": ""Machine 12"",
+""Error time and Error date"": ""2012/03/27 07:48"",
+""WorkerID"": ""ID4872""
+}",Part Misalignment
+Case 126,Round Grinding,Machine 12,2012/03/27 10:24:00.000,ID4872,519,2012/03/27 10:24,,,
+Case 127,Turning & Milling,Machine 6,2012/03/04 15:14:00.000,ID4794,522,2012/03/04 15:14,,,
+Case 127,Turning & Milling,Machine 6,2012/03/04 15:59:00.000,ID4794,523,2012/03/04 15:59,,,
+Case 127,Turning & Milling,Machine 6,2012/03/04 20:08:00.000,ID4167,524,2012/03/04 20:08,,,
+Case 127,Turning & Milling,Machine 6,2012/03/05 06:43:00.000,ID4529,525,2012/03/05 06:43,,,
+Case 127,Turning & Milling,Machine 6,2012/03/05 16:01:00.000,ID4794,527,2012/03/05 16:01,,,
+Case 127,Turning & Milling,Machine 6,2012/03/06 00:12:00.000,ID4529,528,2012/03/06 00:12,"On the day of the 16th of March in the year 2012, I found myself engaged in the Turning & Milling activity during the midday hours, around quarter to one o'clock precisely. At machine number six, my operator identification being ID4529, I was met with an unexpected complication. The temperature inside the workshop remained pleasant, and the batch assigned for processing was clearly labeled as 'Batch 308'.
+
+Initially, the machine seemed to be functioning correctly. However, after a few minutes, I noticed an unusual sound coming from the cooling system – a sound that was decidedly more noticeable than the usual hum of machinery in our workshop. The grinding process began to feel increasingly resistant, and soon enough, the lubricant started bubbling at an abnormal rate. As I continued the task, the machine began to heat up unexpectedly, the cooling system's failure becoming more apparent with each passing second.
+
+The situation called for immediate action. I stopped the process promptly and alerted my supervisor about the issue. The machine was in need of maintenance to prevent further complications, as the components were running hotter than usual.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/16 13:00"",
+""WorkerID"": ""ID4529""
+}",Cooling System Failure
+Case 127,Turning & Milling,Machine 6,2012/03/05 22:54:00.000,ID4529,529,2012/03/05 22:54,,,
+Case 127,Lapping,Machine 1,2012/03/06 01:15:00.000,ID4882,530,2012/03/06 01:15,,,
+Case 127,Turning & Milling,Machine 6,2012/03/06 06:25:00.000,ID0997,531,2012/03/06 06:25,,,
+Case 127,Turning & Milling,Machine 6,2012/03/06 10:29:00.000,ID4794,533,2012/03/06 10:29,"During the Turning & Milling process on Machine 6 at 2012/03/06 10:29, an issue arose with the operation. My worker ID is ID4794. Initially, everything seemed normal; however, as I continued to work, there was a sudden change in the machine's performance. The air pressure felt inconsistent, and the tools started to vibrate excessively. This resulted in an uneven cut on the workpiece, compromising its shape and quality. Despite adjusting the settings, the problem persisted, leading me to suspect an air pressure error. I halted the operation immediately and alerted my supervisor for further inspection and rectification of the issue.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/06 10:29"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 127,Turning & Milling,Machine 6,2012/03/06 15:53:00.000,ID4794,534,2012/03/06 15:53,,,
+Case 127,Lapping,Machine 1,2012/03/06 15:12:00.000,ID0998,536,2012/03/06 15:12,"On the morning of 2012/03/08 at approximately 06:51, during the Turning & Milling process on Machine 8, an unexpected issue arose. My worker ID is ID0997. As I was overseeing the operation, I noticed an unusual heat emission from the machine. The cooling system seemed to be malfunctioning, as the coolant reservoir was depleting rapidly, and the temperature gauge was consistently high. This led to a significant slowdown in production due to the prolonged periods of machine downtime required for cooling system maintenance. I immediately notified the supervisor about the issue and ensured that the machine was turned off for safety reasons and to prevent any further damage. The supervisor was informed to initiate necessary repairs and precautions before resuming work on Machine 8.","{
+""Activity"": ""Unexpected issue arose."",
+""Machine"": ""Machine 8"",
+""Error time and Error date"": ""2012/03/08 06:51"",
+""WorkerID"": ""ID0997""
+}",Cooling System Failure
+Case 127,Turning & Milling,Machine 6,2012/03/07 06:50:00.000,ID0997,537,2012/03/07 06:50,,,
+Case 127,Laser Marking,Machine 7,2012/03/07 01:43:00.000,ID4445,538,2012/03/07 01:43,"While performing Laser Marking on Machine 7 at 2012/03/07 01:43, I, worker ID4445, experienced an unusual issue. The process initially seemed to run smoothly, but as I progressed, the laser marking pattern began to display irregularities. The marks were inconsistent and distorted, with some sections over-marked while others remained untouched. Despite the machine functioning normally up until this point, there was a noticeable discrepancy in the final output. I immediately halted the process due to these anomalies and alerted the supervisor about the issue for further investigation and correction.","{
+""Activity"": ""Laser Marking"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/03/07 01:43"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 127,Turning & Milling,Machine 6,2012/03/07 15:42:00.000,ID4794,540,2012/03/07 15:42,"On the afternoon of 7th March 2012 at exactly 15:42, I, worker ID 4794, was engaged in the Turning & Milling activity on Machine 6. As usual, the machine functioned smoothly initially; however, a subtle anomaly caught my attention. The workpiece seemed to be skewed slightly off-center within the fixture during the milling process. Consequently, the final product started showing inconsistencies in its shape - one side being thicker than the other. Despite the system not triggering any alarms, it was evident that the part had an asymmetrical deformation. I immediately stopped the operation and alerted my supervisor about this issue for further rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/07 15:42"",
+""WorkerID"": ""4794""
+}",Part Misalignment
+Case 127,Lapping,Machine 1,2012/03/08 15:55:00.000,ID0998,545,2012/03/08 15:55,,,
+Case 127,Laser Marking,Machine 7,2012/03/08 22:09:00.000,ID4445,546,2012/03/08 22:09,,,
+Case 127,Lapping,Machine 1,2012/03/12 12:20:00.000,ID0998,552,2012/03/12 12:20,,,
+Case 127,Laser Marking,Machine 7,2012/03/12 12:21:00.000,ID0998,553,2012/03/12 12:21,"On March 12th, 2012 at 12:21, while performing Laser Marking on Machine 7, an issue arose during my shift (Worker ID: ID0998). The laser marking process proceeded normally initially, but as I observed the output, I noticed that the marks were not as crisp and clear as usual. Upon closer inspection, I found that the laser's focus was blurred, resulting in faint and indistinct markings on the part. I immediately stopped the machine to prevent further damage and reported the matter to my supervisor for investigation and necessary corrections. It is suspected that there might be an issue with the equipment's lubrication system, leading to the observed problem.","{
+""Activity"": ""Laser Marking"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/03/12 12:21"",
+""WorkerID"": ""ID0998""
+}",Part Misalignment
+Case 127,Laser Marking,Machine 7,2012/03/13 15:15:00.000,ID4355,555,2012/03/13 15:15,"On the afternoon of 13 March 2012, I was engaged in the Laser Marking activity on Machine 7 at approximately 15:15. I am worker ID4355. As the process progressed, I noticed that the laser beam seemed to flicker inconsistently and the markings on the components became irregular and blurry. This resulted in a substantial decrease in the quality of the output. Despite no alerts from the system, it was evident that there was an issue with the precision of the machine. The supervisor was promptly notified, and I stopped the process to prevent further complications.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Not specified"",
+""Error time and Error date"": ""2012/03/13 15:15"",
+""WorkerID"": ""ID4355""
+}",Part Misalignment
+Case 127,Lapping,Machine 1,2012/03/15 01:15:00.000,ID4882,556,2012/03/15 01:15,,,
+Case 127,Lapping,Machine 1,2012/03/15 13:59:00.000,ID4882,557,2012/03/15 13:59,"On the afternoon of March 27, 2012, I was engaged in Round Grinding activity on Machine 2 at approximately 16:14. I am worker ID4355. During the process, I observed an unusual alignment issue with the workpiece within the grinding mechanism. As a result, the roundness of the part began to deviate from the desired circular shape. The distortion became more pronounced as the grinding continued, leaving the final product with noticeable asymmetry. Although there were no system alerts, it was evident that the misaligned part had a clear elliptical shape rather than a circle. I halted the operation immediately and reported the issue to my supervisor for rectification.","{
+""Activity"": ""Machine 2"",
+""Machine"": ""Machine 2"",
+""Error time and Error date"": ""2012/03/27 16:14"",
+""WorkerID"": ""ID4355""
+}",Part Misalignment
+Case 129,Turning & Milling,Machine 8,2012/03/06 18:21:00.000,ID4219,562,2012/03/06 18:21,,,
+Case 129,Turning & Milling,Machine 8,2012/03/07 18:59:00.000,ID4219,564,2012/03/07 18:59,,,
+Case 129,Turning & Milling,Machine 8,2012/03/07 22:06:00.000,ID0997,565,2012/03/07 22:06,,,
+Case 129,Lapping,Machine 1,2012/03/09 11:59:00.000,ID0998,567,2012/03/09 11:59,,,
+Case 129,Laser Marking,Machine 7,2012/03/20 09:11:00.000,ID0998,571,2012/03/20 09:11,,,
+Case 13,Laser Marking,Machine 7,2012/01/18 08:25:00.000,ID4872,577,2012/01/18 08:25,,,
+Case 130,Turning & Milling,Machine 6,2012/03/08 01:08:00.000,ID4529,579,2012/03/08 01:08,,,
+Case 133,Turning & Milling,Machine 4,2012/03/28 01:15:00.000,ID4429,580,2012/03/28 01:15,,,
+Case 133,Turning & Milling,Machine 4,2012/03/29 04:43:00.000,ID4932,581,2012/03/29 04:43,,,
+Case 133,Turning & Milling,Machine 4,2012/03/29 06:40:00.000,ID4932,582,2012/03/29 06:40,"While conducting Turning & Milling operations on Machine 4 at 2012/03/29 06:40, I, worker ID4932, encountered an issue. The clamp holding the workpiece appeared to have malfunctioned during the process, causing the piece to move irregularly. This resulted in a series of inconsistencies in the machining pattern, with some sections being under-milled and others over-milled. Despite no alerts from the system, it was evident that the final product had severe deformities. I halted the process immediately and notified my supervisor to address the issue with the clamp mechanism on Machine 4.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/29 06:40"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 133,Turning & Milling,Machine 4,2012/03/29 16:03:00.000,ID4167,583,2012/03/29 16:03,,,
+Case 134,Turning & Milling,Machine 4,2012/03/29 19:49:00.000,ID4932,584,2012/03/29 19:49,,,
+Case 134,Turning & Milling,Machine 4,2012/03/30 00:00:00.000,ID4932,585,2012/03/30 00:00,,,
+Case 134,Turning & Milling,Machine 4,2012/03/30 11:25:00.000,ID4167,586,2012/03/30 11:25,,,
+Case 134,Turning & Milling,Machine 4,2012/03/31 05:45:00.000,ID4932,587,2012/03/31 05:45,,,
+Case 135,Turning & Milling,Machine 5,2012/03/22 06:30:00.000,ID4529,588,2012/03/22 06:30,,,
+Case 135,Turning & Milling,Machine 5,2012/03/22 12:17:00.000,ID4429,589,2012/03/22 12:17,"On 22 March 2012 at 12:17 during the Turning & Milling process on Machine 5, I was operator 4429. The operation seemed normal initially, but suddenly I noticed that the machine began to slow down and the tools lost their precision. The workpiece appeared rougher than usual, with irregular grooves and indentations. Despite trying to adjust the settings, the issue persisted. The lights dimmed, and there was a distinct hum in the machinery, indicating potential overheating. I immediately stopped the process due to safety concerns and notified my supervisor about the situation, recommending an inspection of Machine 5's power supply for resolution.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 5"", 
+""Error time and Error date"": ""2012/03/22 12:17"", 
+""WorkerID"": ""4429""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/22 09:59:00.000,ID4718,590,2012/03/22 09:59,,,
+Case 135,Turning & Milling,Machine 5,2012/03/23 01:23:00.000,ID4529,591,2012/03/23 01:23,,,
+Case 135,Turning & Milling,Machine 5,2012/03/23 02:57:00.000,ID4529,592,2012/03/23 02:57,"While performing Turning & Milling operations on Machine 5 at 2012/03/23 02:57, an issue arose during my shift with worker ID: ID4529. The machine appeared to be functioning normally until I observed that the workpiece was not securely clamped in place. As the process continued, the vibrations caused the unclamped section of the workpiece to move excessively, leading to irregularities in the final product. The affected area showed clear signs of inconsistency and distortion. Despite there being no system alerts, it was evident that the issue had compromised the quality of the output. I immediately halted the process, documented the incident, and alerted the supervisor for necessary corrections to prevent any further defects.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 5"",
+    ""Error time and Error date"": ""2012/03/23 02:57"",
+    ""WorkerID"": ""ID4529""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/23 06:31:00.000,ID4529,593,2012/03/23 06:31,,,
+Case 135,Turning & Milling,Machine 5,2012/03/23 12:29:00.000,ID4429,594,2012/03/23 12:29,,,
+Case 135,Turning & Milling,Machine 5,2012/03/24 15:49:00.000,ID4932,595,2012/03/24 15:49,"This report pertains to an incident that occurred during the Turning & Milling activity on the 20th of March, 2012 at approximately two twenty-six in the morning. The affected machine was the fifth machine in our production line. My operator ID is 4-5-2-9. The temperature in the workshop remained steady around 18 degrees, and we were working on batch 732 that day. Everything seemed normal as I started my shift, but then I noticed an unusual behavior with the machine. As I fed the raw material into the machine for milling, it jammed unexpectedly. Upon further inspection, it appeared that the programming sequence was malfunctioning, causing the machine to behave abnormally. The CNC controller showed no error messages, and the machine's movements were jerky and unpredictable. I had to halt the process immediately due to safety concerns and alerted the supervisor for assistance.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/20 22:26"",
+""WorkerID"": ""4-5-2-9""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/24 22:49:00.000,ID4794,596,2012/03/24 22:49,"In the Turning & Milling process on Machine 5, an issue surfaced at 2012/03/24 22:49. The worker responsible is ID4794. During the operation, I observed that the workpiece seemed to be misaligned within the machine bed, affecting the precision of the cuts. As a result, the turned and milled surfaces exhibited an irregular shape, with some areas appearing thinner or thicker than others. Despite no alarms from the system, it was evident that the part was not being processed evenly, showing clear signs of misalignment. I halted the process immediately and alerted the supervisor for rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/24 22:49"",
+""WorkerID"": ""ID4794""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/25 06:45:00.000,ID4794,597,2012/03/25 06:45,,,
+Case 135,Turning & Milling,Machine 5,2012/03/25 10:39:00.000,ID4529,598,2012/03/25 10:39,,,
+Case 135,Turning & Milling,Machine 5,2012/03/25 12:27:00.000,ID4529,599,2012/03/25 12:27,,,
+Case 135,Turning & Milling,Machine 5,2012/03/25 23:36:00.000,ID4429,600,2012/03/25 23:36,,,
+Case 135,Turning & Milling,Machine 5,2012/03/26 06:38:00.000,ID4794,601,2012/03/26 06:38,,,
+Case 135,Turning & Milling,Machine 5,2012/03/26 09:11:00.000,ID4529,602,2012/03/26 09:11,"In the Turning & Milling activity on Machine 5, an unexpected issue arose at 2012/03/26 09:11. My worker ID is ID4529. As I began my work, the machine suddenly lost power, causing all operations to cease abruptly. The lack of power resulted in a standstill of the machining process, leaving the workpiece untouched and unfinished. Despite attempts to restart the machine, it remained nonresponsive due to the power outage. I immediately reported the situation to my supervisor for further action and rectification of the power supply issue.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/26 09:11"",
+""WorkerID"": ""ID4529""
+}",Power Outage
+Case 135,Turning & Milling,Machine 5,2012/03/26 15:41:00.000,ID4529,604,2012/03/26 15:41,,,
+Case 135,Turning & Milling,Machine 5,2012/03/26 23:37:00.000,ID4429,605,2012/03/26 23:37,,,
+Case 135,Turning & Milling,Machine 5,2012/03/27 06:33:00.000,ID4794,606,2012/03/27 06:33,,,
+Case 135,Turning & Milling,Machine 5,2012/03/27 15:00:00.000,ID4167,607,2012/03/27 15:00,,,
+Case 135,Turning & Milling,Machine 5,2012/03/27 16:00:00.000,ID4167,609,2012/03/27 16:00,,,
+Case 135,Turning & Milling,Machine 5,2012/03/27 18:08:00.000,ID4429,610,2012/03/27 18:08,"On the 27th of March 2012, during the Turning & Milling activity in the late afternoon around 18:08, an issue arose on machine number five. I was the worker assigned with operator ID 4-4-2-9 that day. The room temperature remained comfortable, and the workstation area was tidy as usual. However, during the course of the Turning & Milling process, I noticed an unusual behavior from the tool. Specifically, it seemed to be moving slower than expected despite the motor running at full speed. This sluggishness affected the precision of the cuts, causing a noticeable inconsistency in the machined parts. One side of the part appeared thinner than the other, and the overall shape was not as symmetrical as it should have been. There were no audible alarms or warnings from the machine during this time, but the irregularities were evident in the final product. Upon recognizing these anomalies, I halted the process and reported the issue to my supervisor for further investigation and correction.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/27 18:08"",
+""WorkerID"": ""ID4-4-2-9""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/27 23:33:00.000,ID4932,611,2012/03/27 23:33,,,
+Case 135,Turning & Milling,Machine 5,2012/03/28 01:16:00.000,ID4932,612,2012/03/28 01:16,,,
+Case 135,Turning & Milling,Machine 5,2012/03/28 06:40:00.000,ID4932,613,2012/03/28 06:40,"On Thursday, March 29th, at approximately 06:41 during the Turning & Milling process on Machine 5, an issue arose. I am worker ID4932 who encountered this anomaly. The machine was functioning properly initially; however, I soon observed that the workpiece was not aligned correctly with its fixture. This misalignment caused irregularities in the machining patterns as the process progressed. Despite no alerts from the system, the finished part displayed noticeable asymmetry and warping. Recognizing this deviation, I halted the operation and reported the issue to the supervisor for immediate correction.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""March 29th, 06:41"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 135,Turning & Milling,Machine 5,2012/03/28 16:09:00.000,ID4167,614,2012/03/28 16:09,,,
+Case 135,Turning & Milling,Machine 5,2012/03/28 23:40:00.000,ID4429,616,2012/03/28 23:40,,,
+Case 135,Turning & Milling,Machine 5,2012/03/29 06:41:00.000,ID4932,617,2012/03/29 06:41,,,
+Case 135,Turning & Milling,Machine 5,2012/03/29 16:04:00.000,ID4167,618,2012/03/29 16:04,,,
+Case 135,Turning & Milling,Machine 5,2012/03/29 23:28:00.000,ID4429,620,2012/03/29 23:28,,,
+Case 135,Turning & Milling,Machine 5,2012/03/30 05:45:00.000,ID4932,621,2012/03/30 05:45,,,
+Case 135,Turning & Milling,Machine 5,2012/03/30 11:27:00.000,ID4167,622,2012/03/30 11:27,"On March 30th, 2012 at 11:27 am during the Turning & Milling process on Machine 5, an unforeseen issue arose. The worker with ID4167 was attending to the machine when he noticed that the machinery began operating erratically. Despite regular operation, the system started showing inconsistent results, with the cutting tool failing to achieve the desired precision. As the process continued, the final product exhibited irregularities in its shape and dimensions. There were no warning signs or alerts from the system, but the unusual behavior of the machine was evident. The worker immediately halted the operation and reported the incident to the supervisor for further investigation and resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/30 11:27"",
+""WorkerID"": ""ID4167""
+}",Part Misalignment
+Case 136,Turning & Milling,Machine 6,2012/03/29 23:34:00.000,ID4794,624,2012/03/29 23:34,,,
+Case 136,Turning & Milling,Machine 6,2012/03/30 05:55:00.000,ID4794,625,2012/03/30 05:55,,,
+Case 137,Turning & Milling,Machine 4,2012/03/27 23:38:00.000,ID4429,627,2012/03/27 23:38,,,
+Case 137,Turning & Milling,Machine 4,2012/03/28 04:11:00.000,ID4932,628,2012/03/28 04:11,"During the Turning & Milling process on Machine 4 on 28 March 2012 at 04:11, I was worker 4932. Initially, everything seemed to run smoothly. However, I soon noticed an unusual increase in temperature around the work area of the machine. The heat caused the metal shavings produced during the process to become uncharacteristically soft and sticky. As a result, the turning and milling patterns on the current part became irregular, with rough edges and imperfections. Despite no alarm sounding from the system, the inconsistencies were evident. Concerned, I immediately halted the operation and alerted the supervisor about the issue.","{
+    ""Activity"": ""Turning & Milling"", 
+    ""Machine"": ""Machine 4"", 
+    ""Error time and Error date"": ""2012/03/28 04:11"", 
+    ""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 137,Turning & Milling,Machine 4,2012/03/28 16:09:00.000,ID4167,629,2012/03/28 16:09,"On March 28, 2012, during the Turning & Milling process on Machine 4 at approximately 16:09, an issue arose. My worker ID is ID4167. I noticed that the workpiece was not properly aligned during the process, causing inconsistent results. As the operation continued, it became apparent that the cutting pattern was off-centered, with one side being milled excessively compared to the other. Despite the lack of system alerts, the final product displayed an obvious asymmetry. I immediately halted the process and alerted my supervisor about the misalignment problem for rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/28 16:09"",
+""WorkerID"": ""ID4167""
+}",Part Misalignment
+Case 138,Turning & Milling,Machine 4,2012/03/26 18:01:00.000,ID4167,631,2012/03/26 18:01,,,
+Case 138,Turning & Milling,Machine 4,2012/03/27 00:44:00.000,ID4932,632,2012/03/27 00:44,"During the Turning & Milling activity on Machine 4 at exactly 00:44 on March 27, 2012. I am operator ID4932. Initially, the process seemed to run smoothly. However, as I proceeded with my tasks, I encountered an unusual issue - the machine started to behave erratically. The cutting tool was moving unpredictably, and the sound of metal against metal became disconcertingly inconsistent. Despite these obvious signs, there were no alerts from the system. The final product that emerged had a noticeable warp which failed to meet our usual standards for precision. I immediately halted the process, notified my supervisor, and highlighted the need for an inspection and possible machine maintenance.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""27/03/2012 00:44"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 138,Turning & Milling,Machine 4,2012/03/27 06:34:00.000,ID4932,633,2012/03/27 06:34,,,
+Case 138,Turning & Milling,Machine 4,2012/03/27 16:04:00.000,ID4167,634,2012/03/27 16:04,,,
+Case 138,Turning & Milling,Machine 5,2012/03/27 18:09:00.000,ID4429,635,2012/03/27 18:09,,,
+Case 138,Laser Marking,Machine 7,2012/03/28 14:43:00.000,ID4882,639,2012/03/28 14:43,,,
+Case 140,Turning & Milling,Machine 5,2012/03/19 17:59:00.000,ID4429,641,2012/03/19 17:59,"This report pertains to an incident during the Turning & Milling activity on the morning of the 8th of March 2012, specifically at six fifty-one. I was operating at the ninth machine with my worker code being ID4641. The ambient temperature was a brisk 3 degrees, and the milling bits were all accounted for in their respective holders. However, during the process, the machine began to operate erratically. Although the system readings showed no abnormalities, the drill head started moving at irregular intervals, causing the workpiece to be cut inconsistently. The cutting pattern became increasingly jagged, deviating significantly from the programmed design. There were no alerts or warnings issued by the system, but it was clear that the issue was affecting the quality of the final product. I immediately halted the process and alerted my supervisor about the anomaly for further investigation and correction.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/08 06:51"",
+""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 140,Turning & Milling,Machine 5,2012/03/19 21:35:00.000,ID4167,642,2012/03/19 21:35,"During the Turning & Milling process on Machine 5 at 21:35 on 19 Mar 2012, I am operator 4167. Initially, everything seemed to be running smoothly, but then I noticed an unusual noise coming from the machine. Upon closer inspection, I saw that the part was not being processed evenly - some areas were being over-milled while others were left untouched. This resulted in a jagged and irregular shape on the final product. Although the system didn't trigger any alerts, it was evident that there was an issue with the feed path. I immediately halted the process to prevent further damage and reported the matter to the supervisor for immediate attention and rectification.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/03/19 21:35"",
+""WorkerID"": ""4167""
+}",Part Misalignment
+Case 140,Laser Marking,Machine 7,2012/03/20 14:52:00.000,ID4882,644,2012/03/20 14:52,,,
+Case 140,Lapping,Machine 1,2012/03/27 10:22:00.000,ID0998,645,2012/03/27 10:22,,,
+Case 140,Round Grinding,Machine 2,2012/03/27 16:14:00.000,ID4355,646,2012/03/27 16:14,,,
+Case 140,Round Grinding,Machine 2,2012/03/27 17:06:00.000,ID4355,647,2012/03/27 17:06,,,
+Case 140,Round Grinding,Machine 2,2012/03/27 17:43:00.000,ID4355,648,2012/03/27 17:43,"This log entry pertains to the Round Grinding activity on the afternoon of the 27th of March 2012, at approximately seventeen forty-three. The machine in question was Machine 2. My operator ID is 4-3-5-5. The temperature in the grinding chamber was a bit cooler than usual at around fifteen degrees Celsius, but I didn't think it would affect the process significantly. The batch number for this run was 750.
+
+Upon starting the round grinding, everything seemed normal. However, after a few minutes, I noticed an unusual behavior with the speed control settings on the machine. Despite my adjustments, the spindle speed didn't respond as expected, fluctuating erratically between the set range. This inconsistency continued throughout the process, causing inconsistent results in the roundness of the ground components.
+
+I checked all the manual controls and even consulted the maintenance manual, but I couldn't find a solution for this issue. The machine was still functioning, but the quality of the parts produced was compromised due to the irregular spindle speed. Concerned about potential damage to the machine or the components, I reported the problem to my supervisor and halted the round grinding process.","{
+    ""Activity"": ""Round Grinding"",
+    ""Machine"": ""Machine 2"",
+    ""Error time and Error date"": ""2012/03/27 17:43"",
+    ""WorkerID"": ""4-3-5-5""
+}",Part Misalignment
+Case 140,Round Grinding,Machine 2,2012/03/30 00:26:00.000,ID4385,650,2012/03/30 00:26,,,
+Case 141,Turning & Milling,Machine 4,2012/03/26 01:15:00.000,ID4429,653,2012/03/26 01:15,"During the Lapping process on Machine 1 at 01:15 on the 9th of March 2012, I, worker 4882, noticed an unusual issue. The machine initially operated smoothly, but as the lapping continued, a sudden surge in heat was detected, making it uncomfortable to touch the machine's components. This was followed by an abnormal sound from the machine, different from the usual hum. As I observed further, I noted that the lapping pattern on the surface became irregular and inconsistent, with patches of overheated areas visible. The final part produced had a burnt texture and discoloration. I immediately stopped the process due to concerns about the machine's performance and reported the issue to the supervisor for investigation and correction.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 4"", 
+""Error time and Error date"": ""2012/03/15 09:30"", 
+""WorkerID"": ""ID4521""
+}",Part Misalignment
+Case 145,Flat Grinding,Machine 11,2012/02/20 17:39:00.000,ID0998,663,2012/02/20 17:39,"During the Flat Grinding process on Machine 11 at approximately 17:39 on 20th Feb 2012. I am worker ID0998. As I began grinding a new part, I noticed an unusual increase in resistance and heat emanating from the machine. The grinding wheel seemed to struggle more than usual, causing sparks to fly off at irregular intervals. The finished piece had an inconsistent grind, with some areas overly smooth while others were rougher than expected. The noise level also appeared higher than typical, indicating potential machine distress. Concerned about the machine's health and the quality of the produced parts, I paused the process, disconnected the power source, and reported the issue to the supervisor for further investigation and maintenance.","{
+""Activity"": ""Flat Grinding"",
+""Machine"": ""Not specified"",
+""Error time and Error date"": ""20/02/2012 17:39"",
+""WorkerID"": ""ID0998""
+}",Part Misalignment
+Case 145,Lapping,Machine 1,2012/03/01 14:43:00.000,ID0998,664,2012/03/01 14:43,,,
+Case 145,Wire Cut,Machine 13,2012/03/07 13:00:00.000,ID3767,666,2012/03/07 13:00,,,
+Case 145,Wire Cut,Machine 18,2012/03/07 15:00:00.000,ID3767,667,2012/03/07 15:00,,,
+Case 145,Wire Cut,Machine 18,2012/03/08 04:30:00.000,ID4861,668,2012/03/08 04:30,,,
+Case 145,Lapping,Machine 1,2012/03/09 13:35:00.000,ID0998,670,2012/03/09 13:35,,,
+Case 145,Laser Marking,Machine 7,2012/03/09 12:54:00.000,ID0998,671,2012/03/09 12:54,,,
+Case 150,Flat Grinding,Machine 11,2012/02/02 01:15:00.000,ID4618,691,2012/02/02 01:15,,,
+Case 150,Laser Marking,Machine 7,2012/02/02 01:15:00.000,ID4618,692,2012/02/02 01:15,,,
+Case 150,Round Grinding,Machine 3,2012/02/02 01:15:00.000,ID4618,693,2012/02/02 01:15,,,
+Case 154,Flat Grinding,Machine 26,2012/01/06 11:30:00.000,ID3716,701,2012/01/06 11:30,,,
+Case 155,Turning & Milling,Machine 8,2012/01/06 12:38:00.000,ID0997,705,2012/01/06 12:38,,,
+Case 155,Turning & Milling,Machine 8,2012/01/06 13:53:00.000,ID0997,706,2012/01/06 13:53,,,
+Case 155,Turning & Milling,Machine 8,2012/01/08 15:39:00.000,ID0997,707,2012/01/08 15:39,"This report pertains to an incident that occurred during the Turning & Milling activity on the 15th of March 2012, around three forty-four in the afternoon. The machine involved was the eighth one in our workspace. My worker ID is 09-97. The batch we were processing required a specific temperature range, and it was within acceptable limits; however, I noticed an unusual issue with the cooling system during the process.
+
+The cooling water pump seemed to be running abnormally loud, and there was a steady decrease in the flow of coolant from the spout. As a result, the temperature inside the machine began to rise steadily. The milled component appeared visibly hotter than usual, and the surface finish had irregularities and marks that suggested uneven cooling.
+
+The system did not trigger any alerts despite these unusual symptoms. I immediately stopped the process to prevent further complications and brought this matter to the attention of my supervisor for urgent resolution. It's essential to address the cooling system issue on machine eight to ensure safe and efficient operation in the future.","{
+    ""Activity"": ""Turning & Milling"", 
+    ""Machine"": ""Machine 8"", 
+    ""Error time and Error date"": ""2012/03/15 09:44"", 
+    ""WorkerID"": ""09-97""
+}",Cooling System Failure
+Case 155,Laser Marking,Machine 7,2012/01/10 08:12:00.000,ID4882,710,2012/01/10 08:12,,,
+Case 155,Laser Marking,Machine 7,2012/01/10 09:10:00.000,ID0998,711,2012/01/10 09:10,,,
+Case 155,Lapping,Machine 1,2012/01/10 10:33:00.000,ID4882,712,2012/01/10 10:33,,,
+Case 156,Turning & Milling,Machine 9,2012/02/20 23:50:00.000,ID4641,716,2012/02/20 23:50,,,
+Case 156,Turning & Milling,Machine 9,2012/02/21 06:50:00.000,ID4641,717,2012/02/21 06:50,,,
+Case 156,Turning & Milling,Machine 9,2012/02/22 03:56:00.000,ID4641,718,2012/02/22 03:56,"During the Turning & Milling process on Machine 9, an issue arose at 2012/02/22 03:56. My worker ID is ID4641. As I was engaged in the operation, I noticed that the air pressure seemed abnormal. The tool began to oscillate uncontrollably, and the cutting performance became erratic. The parts produced during this period displayed inconsistent dimensions and irregular surfaces. Despite the machine continuing to run without any system alerts, it was evident that the air pressure regulation was malfunctioning. I immediately halted the process, documented the issue, and notified the supervisor for further investigation and necessary repairs.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/02/22 03:56"",
+""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 156,Turning & Milling,Machine 9,2012/02/22 06:34:00.000,ID4641,719,2012/02/22 06:34,"During the Turning & Milling process on Machine 9 at the specified time of 2012/02/22 06:34, an issue arose with the production. My worker ID is ID4641. Upon closer inspection, I observed that one of the workpieces was not aligned correctly within the clamping device. This misalignment resulted in inconsistent cuts during the process, causing uneven features on the finished part. Despite the lack of machine alerts, the distortion in the final product was evident to the naked eye. Consequently, I halted the operation and alerted the supervisor for further examination and corrective action.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 9"",
+""Error time and Error date"": ""2012/02/22 06:34"",
+""WorkerID"": ""ID4641""
+}",Part Misalignment
+Case 156,Turning & Milling,Machine 9,2012/02/23 06:41:00.000,ID4641,720,2012/02/23 06:41,,,
+Case 156,Laser Marking,Machine 7,2012/02/29 15:42:00.000,ID4445,724,2012/02/29 15:42,,,
+Case 156,Lapping,Machine 1,2012/03/01 02:34:00.000,ID0420,725,2012/03/01 02:34,,,
+Case 156,Turning & Milling,Machine 10,2012/03/06 16:30:00.000,ID4618,728,2012/03/06 16:30,,,
+Case 157,Lapping,Machine 1,2012/02/21 01:15:00.000,ID0937,730,2012/02/21 01:15,"During the Laser Marking activity on Machine 7 today, at exactly 09:49, I was worker ID4718. The process started smoothly but soon, an unexpected issue arose. The laser marking equipment failed to produce the usual markings, and instead, there were no signs of any markings appearing on the material. This occurred even though the material seemed to be passing through the machine as normal. I notified the supervisor immediately and ceased the process due to the lack of visible results. The machine was operating, but it appeared that the laser component might have malfunctioned, causing this power-related issue.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""09:49"",
+""WorkerID"": ""Worker ID4718""
+}",Power Outage
+Case 17,Laser Marking,Machine 7,2012/02/29 15:02:00.000,ID4445,759,2012/02/29 15:02,,,
+Case 174,Turning & Milling,Machine 6,2012/03/19 02:14:00.000,ID4529,784,2012/03/19 02:14,,,
+Case 174,Turning & Milling,Machine 6,2012/03/19 12:12:00.000,ID4794,785,2012/03/19 12:12,"This report pertains to the Turning & Milling operation on the afternoon of the 6th of March 2012 at approximately three fifteen-thirty. The machine involved in this incident was the sixth one in our facility. My operator ID is 4-7-9-4. The temperature for both turning and milling stations was within acceptable limits, with turning station thermostat set at 35 degrees Celsius and the milling station thermostat at 28 degrees. The batch of components I was working on was labeled as 'Batch-A', so everything seemed normal at first glance. However, during the process, I noticed an unusual grinding noise coming from the machine that persisted despite adjustments to the feed rate and tool position. This resulted in an inconsistent cutting pattern, with some parts showing over-machining on one side and under-machining on the other. Despite no warning alerts from the system, it became clear that the feed path was affected by this anomaly. I immediately halted the operation to prevent further damage and informed the supervisor about the issue for rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""2012/03/15 09:30"",
+""WorkerID"": ""4-7-9-4""
+}",Part Misalignment
+Case 174,Turning & Milling,Machine 6,2012/03/19 16:01:00.000,ID4794,787,2012/03/19 16:01,,,
+Case 174,Turning & Milling,Machine 6,2012/03/19 17:49:00.000,ID4718,788,2012/03/19 17:49,,,
+Case 174,Turning & Milling,Machine 6,2012/03/19 23:28:00.000,ID0997,789,2012/03/19 23:28,"On the evening of 19 March 2012 at 23:28, during the Turning & Milling activity on Machine 6, I noticed an issue as worker ID0997. Initially, the machine seemed to function correctly. However, as the process progressed, I observed that the part was not maintaining its intended position relative to the cutting tool. This misalignment led to inconsistencies in the final shape and size of the component, with one side being cut deeper than the other. Despite no alerts from the system, the finished part clearly exhibited an asymmetrical appearance. Consequently, I ceased operation and alerted my supervisor about the problem for immediate rectification.","{
+  ""Activity"": ""Turning & Milling"",
+  ""Machine"": ""Machine 6"",
+  ""Error time and Error date"": ""2012/03/19 23:28"",
+  ""WorkerID"": ""ID0997""
+}",Part Misalignment
+Case 174,Turning & Milling,Machine 6,2012/03/20 06:40:00.000,ID4529,790,2012/03/20 06:40,,,
+Case 174,Turning & Milling,Machine 6,2012/03/20 13:29:00.000,ID4794,791,2012/03/20 13:29,"During the Turning & Milling process on Machine 6 on 20 March 2012 at 13:29. I am worker 4794. The machine began operating normally, but suddenly the spindle slowed down significantly. Despite my attempts to adjust settings, the speed did not recover. As a result, the part was not being shaped properly and the cutting process was incomplete. No alerts were triggered by the system, but I noticed the lack of vibration that typically indicates active machining. Consequently, I stopped the operation to prevent further damage and reported the issue to my supervisor for resolution.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 6"",
+""Error time and Error date"": ""20/03/2012 13:29"",
+""WorkerID"": ""4794""
+}",Part Misalignment
+Case 174,Laser Marking,Machine 7,2012/03/29 09:20:00.000,ID0998,794,2012/03/29 09:20,"While performing Laser Marking on Machine 7 at 2012/03/29 09:20, I encountered an issue with the process. As my worker ID is ID0998, I noticed that there was an unusual burning smell and the laser mark was not appearing as usual. Upon closer inspection, it appeared that the laser was not focusing properly, possibly due to a malfunctioning component. The machine continued to operate but produced inconsistent results, with some parts marked correctly while others were either under or over-marked. I immediately stopped the process and alerted the supervisor about the issue, as the continuous operation could potentially damage the parts being laser-marked and compromise the overall quality of production.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/03/29 09:20"",
+""WorkerID"": ""ID0998""
+}",Part Misalignment
+Case 174,Lapping,Machine 1,2012/03/29 10:48:00.000,ID0998,795,2012/03/29 10:48,,,
+Case 174,Lapping,Machine 1,2012/03/29 10:58:00.000,ID4872,796,2012/03/29 10:58,,,
+Case 174,Lapping,Machine 1,2012/03/29 12:51:00.000,ID0998,797,2012/03/29 12:51,,,
+Case 174,Round Grinding,Machine 12,2012/03/29 12:13:00.000,ID4872,798,2012/03/29 12:13,,,
+Case 174,Round Grinding,Machine 12,2012/03/29 14:35:00.000,ID4872,799,2012/03/29 14:35,,,
+Case 174,Round Grinding,Machine 12,2012/03/29 15:46:00.000,ID4872,800,2012/03/29 15:46,,,
+Case 174,Lapping,Machine 1,2012/03/29 21:36:00.000,ID4528,801,2012/03/29 21:36,,,
+Case 177,Lapping,Machine 1,2012/01/04 10:25:00.000,ID0998,806,2012/01/04 10:25,,,
+Case 177,Round Grinding,Machine 2,2012/01/08 15:08:00.000,ID4385,807,2012/01/08 15:08,,,
+Case 177,Round Grinding,Machine 2,2012/01/08 15:57:00.000,ID4385,808,2012/01/08 15:57,,,
+Case 177,Round Grinding,Machine 2,2012/01/08 22:13:00.000,ID4355,809,2012/01/08 22:13,,,
+Case 177,Lapping,Machine 1,2012/03/30 01:15:00.000,ID4163,817,2012/03/30 01:15,,,
+Case 178,Round Grinding,Machine 3,2012/01/02 04:50:00.000,ID4445,818,2012/01/02 04:50,,,
+Case 178,Round Grinding,Machine 2,2012/01/02 11:00:00.000,ID4355,819,2012/01/02 11:00,"During the Round Grinding process on Machine 2 at 11 AM on January 2nd, 2012, I was worker ID4355. Initially, everything seemed normal with the grinding operation. However, I soon observed that the part was not properly aligned within the grinding mechanism. This resulted in an asymmetrical grinding pattern on the component, with one edge being ground excessively compared to the other. Despite the machine operating without any alarms, it became apparent that the part had a clear distortion. I halted the process immediately and reported the issue to the supervisor for rectification.","{
+""Activity"": ""Round Grinding"",
+""Machine"": ""Machine 2"",
+""Error time and Error date"": ""2012/01/02 11:00"",
+""WorkerID"": ""ID4355""
+}",Part Misalignment
+Case 178,Lapping,Machine 1,2012/01/15 15:12:00.000,ID4882,822,2012/01/15 15:12,,,
+Case 178,Lapping,Machine 1,2012/01/15 17:27:00.000,ID0998,823,2012/01/15 17:27,"While engaged in Round Grinding activity on Machine 2 at 04:08 on the 23rd of March 2012, I, worker ID4445, noticed an unusual issue. The grinding process seemed normal initially, but as time progressed, I observed an excessive buildup of heat around the grinding wheel. This heat was not typical for this machine during such tasks. The part being ground began to show signs of overheating too - the metal appeared discolored and had a rough texture. Despite the machine functioning without any apparent alerts or warnings, the final product exhibited significant imperfections. I immediately stopped the process, flagging the need for maintenance attention due to the unusual heat buildup and potential lubrication problem that might have caused the overheating. The supervisor was notified promptly for appropriate action.","{
+""Activity"": ""Machine 2"",
+""Machine"": ""Not specified"",
+""Error time and Error date"": ""23/03/2012 04:08"",
+""WorkerID"": ""ID4445""
+}",Part Misalignment
+Case 178,Lapping,Machine 1,2012/03/14 01:15:00.000,ID0937,848,2012/03/14 01:15,,,
+Case 178,Laser Marking,Machine 7,2012/03/14 01:15:00.000,ID0937,849,2012/03/14 01:15,"During the Laser Marking process on Machine 7, an issue arose at 2012/03/14 01:15. My worker ID is ID0937. The machine was functioning correctly initially, but I observed that the laser was moving erratically and not following its usual path. This resulted in a series of markings on the part that were inconsistent with the intended design. There was no warning from the system, but I could see the lasered patterns were disjointed and irregular. The component's quality was compromised, and I halted the process immediately to prevent further damage. I then reported this to the supervisor for necessary corrective measures.","{
+""Activity"": ""Not specified"",
+""Machine"": ""Machine 7"",
+""Error time and Error date"": ""2012/03/14 01:15"",
+""WorkerID"": ""ID0937""
+}",Part Misalignment
+Case 178,Round Grinding,Machine 3,2012/03/14 01:15:00.000,ID0937,850,2012/03/14 01:15,,,
+Case 18,Turning & Milling,Machine 5,2012/01/18 05:31:00.000,ID4932,859,2012/01/18 05:31,"During the Turning & Milling process on Machine 9 this evening, 18 Jan 2012 at 20:04. I am worker 4132. The operation started off smoothly, but I soon noticed an unusual issue - the machine was losing power intermittently, causing it to halt and restart unpredictably. This resulted in inconsistent cuts on the workpiece. Despite my repeated attempts to correct the problem, I could not maintain a steady pace or ensure accurate results. Eventually, I decided to stop the process due to the recurring malfunction. I immediately reported the issue to the supervisor for further investigation and rectification.","{
+    ""Activity"": ""Turning & Milling"",
+    ""Machine"": ""Machine 18"",
+    ""Error time and Error date"": ""2012/01/18 20:04"",
+    ""WorkerID"": ""ID4132""
+}",Power Outage
+Case 18,Turning & Milling,Machine 5,2012/01/18 06:39:00.000,ID4932,860,2012/01/18 06:39,,,
+Case 18,Turning & Milling,Machine 5,2012/01/18 08:44:00.000,ID4429,861,2012/01/18 08:44,,,
+Case 18,Turning & Milling,Machine 5,2012/01/18 20:12:00.000,ID4932,862,2012/01/18 20:12,,,
+Case 18,Turning & Milling,Machine 5,2012/01/19 06:46:00.000,ID4932,863,2012/01/19 06:46,,,
+Case 18,Turning & Milling,Machine 4,2012/01/19 05:33:00.000,ID4932,864,2012/01/19 05:33,"While performing Turning & Milling operations on Machine 4, an issue arose at 2012/01/19 05:33. My worker ID is ID4932. Initially, everything seemed to be running smoothly, but then I noticed an unexpected decrease in the efficiency of the machining process. The cutting tool was not removing material as it should have, and there were irregularities in the finished product. Upon closer inspection, I discovered that the air pressure supplying the machine was significantly lower than usual, which caused the tool to underperform. This anomaly went unnoticed by the system's alerts since the error was not directly related to a hardware failure or malfunction. As soon as I identified the problem, I stopped the process and alerted the supervisor about the air pressure inconsistency for prompt resolution.","{
+""Activity"": ""Turning & Milling"", 
+""Machine"": ""Machine 4"", 
+""Error time and Error date"": ""2012/01/19 05:33"", 
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 18,Turning & Milling,Machine 5,2012/01/19 08:27:00.000,ID4429,865,2012/01/19 08:27,,,
+Case 18,Turning & Milling,Machine 4,2012/01/19 17:29:00.000,ID4167,866,2012/01/19 17:29,,,
+Case 18,Turning & Milling,Machine 5,2012/01/19 17:57:00.000,ID4429,867,2012/01/19 17:57,,,
+Case 18,Turning & Milling,Machine 5,2012/01/20 06:54:00.000,ID4932,868,2012/01/20 06:54,"While performing Turning & Milling operation on Machine 5 at 2012/01/20 06:54, a significant issue emerged. My worker ID is ID4932. Initially, the machine seemed to operate normally, but suddenly it began to slow down dramatically and eventually stopped altogether. There were no warning signs or system alerts before this happened. Upon inspection, I found that the machine was not receiving power, which caused all processes to halt. I immediately reported the issue to the supervisor for further investigation and restoration of power supply to the machine. The affected workpiece could not be completed, resulting in production delays.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 5"",
+""Error time and Error date"": ""2012/01/20 06:54"",
+""WorkerID"": ""ID4932""
+}",Part Misalignment
+Case 18,Turning & Milling,Machine 4,2012/01/19 19:59:00.000,ID4932,869,2012/01/19 19:59,"In the course of Turning & Milling operations on Machine 4, an unexpected issue arose at 2012/01/19 19:59. The worker involved was ID4932. Initially, the machine seemed to be functioning normally. However, I soon noticed a strange smell emanating from the machine, which I attributed to overheating due to an unforeseen malfunction in the cooling system. As a result, the temperature inside the machine started to rise noticeably. The heat affected the precision of the workpiece, causing it to warp and become deformed. Despite this, I continued the process with caution until it became clear that the issue could not be ignored any longer. Upon recognizing the severity of the situation, I stopped the machine immediately and reported the problem to the supervisor for further action.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/01/19 19:59"",
+""WorkerID"": ""ID4932""
+}",Power Outage
+Case 18,Turning & Milling,Machine 5,2012/01/20 06:54:00.000,ID4932,870,2012/01/20 06:54,,,
+Case 18,Turning & Milling,Machine 4,2012/01/20 14:52:00.000,ID4167,871,2012/01/20 14:52,,,
+Case 18,Turning & Milling,Machine 5,2012/01/21 23:54:00.000,ID4529,872,2012/01/21 23:54,,,
+Case 18,Turning & Milling,Machine 4,2012/01/21 20:55:00.000,ID4529,873,2012/01/21 20:55,"While performing the Lapping activity on Machine 1 at around 2:33 PM on March 22, 2012, I was operator ID4718. Initially, the machine seemed to operate smoothly, but I soon noticed an unusual issue - a grinding sound that wasn't typical during the process. As the lapping continued, the component started to heat up excessively. The surface of the part became rough and uneven, with a distinct pattern of wear that was not symmetrical. Unlike previous instances, the system did not trigger any alerts. Upon closer inspection, I found that the lubricant seemed to be depleted, possibly causing the overheating and irregular wear on the component. I immediately halted the process and reported the issue to the supervisor for further investigation and rectification.","{
+""Activity"": ""Turning & Milling"",
+""Machine"": ""Machine 4"",
+""Error time and Error date"": ""2012/03/22 02:33"",
+""WorkerID"": ""ID4718""
+}",Part Misalignment

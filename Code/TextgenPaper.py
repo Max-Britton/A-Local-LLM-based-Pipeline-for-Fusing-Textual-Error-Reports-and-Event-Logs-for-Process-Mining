@@ -4,7 +4,6 @@ from tqdm import tqdm
 import ollama
 import json
 from collections import defaultdict
-import re
 
 # Set random seed for reproducibility
 random.seed(42)
