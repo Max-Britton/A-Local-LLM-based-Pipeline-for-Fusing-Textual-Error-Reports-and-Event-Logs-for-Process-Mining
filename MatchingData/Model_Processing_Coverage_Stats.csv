@@ -1,0 +1,6 @@
+model_group,processed_mean,processed_min,processed_max,runs,total_expected,coverage_mean,coverage_min,coverage_max
+DeepSeek-R1 14b,240.0,240,240,8,240,1.0,1.0,1.0
+GPT-OSS 20b,240.0,240,240,8,240,1.0,1.0,1.0
+Gemma3 12b,240.0,240,240,8,240,1.0,1.0,1.0
+Llama3.2 1b,136.0,120,145,8,240,0.5666666666666667,0.5,0.6041666666666666
+Llama3.2 3b,217.625,211,225,8,240,0.9067708333333333,0.8791666666666667,0.9375
