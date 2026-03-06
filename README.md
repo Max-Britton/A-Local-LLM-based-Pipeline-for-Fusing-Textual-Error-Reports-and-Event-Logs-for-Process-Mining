@@ -35,7 +35,7 @@ It provides an end-to-end **local** pipeline (via **Ollama**) to fuse unstructur
 ## Requirements
 
 ### 1) Python
-- Python **3.13+** recommended
+- Python **3.13** recommended
 - requirements.txt
 
 ### 2) Ollama
